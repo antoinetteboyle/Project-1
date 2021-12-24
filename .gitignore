@@ -8,6 +8,9 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+Data_Tables_Alleged_Offender_Incidents_Visualisation_Year_Ending_September_2021.xlsx
+Data_Tables_LGA_Criminal_Incidents_Year_Ending_September_2021.xlsx
+Data_Tables_LGA_Recorded_Offences_Year_Ending_September_2021.xlsx
 .DS_Store
 build/
 develop-eggs/
