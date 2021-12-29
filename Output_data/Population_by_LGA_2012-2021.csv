@@ -1,791 +1,791 @@
-,Year,Local Government Area,Total Population
-0,2012,Alpine,12182
-1,2012,Ararat,11399
-2,2012,Ballarat,96727
-3,2012,Banyule,123583
-4,2012,Bass Coast,30811
-5,2012,Baw Baw,44505
-6,2012,Bayside,96970
-7,2012,Benalla,13848
-8,2012,Boroondara,168482
-9,2012,Brimbank,193773
-10,2012,Buloke,6433
-11,2012,Campaspe,37040
-12,2012,Cardinia,80421
-13,2012,Casey,269239
-14,2012,Central Goldfields,12713
-15,2012,Colac-Otway,20901
-16,2012,Corangamite,16469
-17,2012,Darebin,144985
-18,2012,East Gippsland,43328
-19,2012,Frankston,132193
-20,2012,Gannawarra,10497
-21,2012,Glen Eira,139115
-22,2012,Glenelg,19824
-23,2012,Golden Plains,19603
-24,2012,Greater Bendigo,103904
-25,2012,Greater Dandenong,145115
-26,2012,Greater Geelong,219151
-27,2012,Greater Shepparton,62561
-28,2012,Hepburn,14824
-29,2012,Hindmarsh,5856
-30,2012,Hobsons Bay,88338
-31,2012,Horsham,19607
-32,2012,Hume,179201
-33,2012,Indigo,15453
-34,2012,Kingston,150434
-35,2012,Knox,155405
-36,2012,Latrobe,74003
-37,2012,Loddon,7528
-38,2012,Macedon Ranges,43793
-39,2012,Manningham,117439
-40,2012,Mansfield,8096
-41,2012,Maribyrnong,77178
-42,2012,Maroondah,108433
-43,2012,Melbourne,107577
-44,2012,Melton,118328
-45,2012,Mildura,52474
-46,2012,Mitchell,36383
-47,2012,Moira,28674
-48,2012,Monash,180311
-49,2012,Moonee Valley,113672
-50,2012,Moorabool,29362
-51,2012,Moreland,156966
-52,2012,Mornington Peninsula,151699
-53,2012,Mount Alexander,18052
-54,2012,Moyne,16303
-55,2012,Murrindindi,13455
-56,2012,Nillumbik,62934
-57,2012,Northern Grampians,11969
-58,2012,Port Phillip,99892
-59,2012,Pyrenees,6859
-60,2012,Queenscliffe,3056
-61,2012,South Gippsland,27925
-62,2012,Southern Grampians,16460
-63,2012,Stonnington,101409
-64,2012,Strathbogie,9743
-65,2012,Surf Coast,27529
-66,2012,Swan Hill,20970
-67,2012,Towong,5939
-68,2012,Wangaratta,27437
-69,2012,Warrnambool,33058
-70,2012,Wellington,42444
-71,2012,West Wimmera,4213
-72,2012,Whitehorse,159660
-73,2012,Whittlesea,169992
-74,2012,Wodonga,36757
-75,2012,Wyndham,179130
-76,2012,Yarra,81267
-77,2012,Yarra Ranges,149863
-78,2012,Yarriambiack,7094
-79,2013,Alpine,12282
-80,2013,Ararat,11489
-81,2013,Ballarat,98343
-82,2013,Banyule,124313
-83,2013,Bass Coast,31330
-84,2013,Baw Baw,45626
-85,2013,Bayside,98251
-86,2013,Benalla,13877
-87,2013,Boroondara,170484
-88,2013,Brimbank,196168
-89,2013,Buloke,6387
-90,2013,Campaspe,37212
-91,2013,Cardinia,84590
-92,2013,Casey,278022
-93,2013,Central Goldfields,12814
-94,2013,Colac-Otway,21034
-95,2013,Corangamite,16409
-96,2013,Darebin,147271
-97,2013,East Gippsland,43808
-98,2013,Frankston,134350
-99,2013,Gannawarra,10525
-100,2013,Glen Eira,141259
-101,2013,Glenelg,19796
-102,2013,Golden Plains,20361
-103,2013,Greater Bendigo,105956
-104,2013,Greater Dandenong,148501
-105,2013,Greater Geelong,223356
-106,2013,Greater Shepparton,63243
-107,2013,Hepburn,15021
-108,2013,Hindmarsh,5851
-109,2013,Hobsons Bay,89187
-110,2013,Horsham,19693
-111,2013,Hume,184872
-112,2013,Indigo,15604
-113,2013,Kingston,152335
-114,2013,Knox,156346
-115,2013,Latrobe,74123
-116,2013,Loddon,7517
-117,2013,Macedon Ranges,44594
-118,2013,Manningham,118356
-119,2013,Mansfield,8275
-120,2013,Maribyrnong,79781
-121,2013,Maroondah,109780
-122,2013,Melbourne,118710
-123,2013,Melton,123935
-124,2013,Mildura,53155
-125,2013,Mitchell,37787
-126,2013,Moira,28904
-127,2013,Monash,183254
-128,2013,Moonee Valley,115463
-129,2013,Moorabool,30409
-130,2013,Moreland,160281
-131,2013,Mornington Peninsula,154000
-132,2013,Mount Alexander,18246
-133,2013,Moyne,16430
-134,2013,Murrindindi,13562
-135,2013,Nillumbik,63173
-136,2013,Northern Grampians,11879
-137,2013,Port Phillip,102155
-138,2013,Pyrenees,6937
-139,2013,Queenscliffe,3001
-140,2013,South Gippsland,28272
-141,2013,Southern Grampians,16354
-142,2013,Stonnington,103486
-143,2013,Strathbogie,9866
-144,2013,Surf Coast,28227
-145,2013,Swan Hill,21002
-146,2013,Towong,5960
-147,2013,Wangaratta,27649
-148,2013,Warrnambool,33422
-149,2013,Wellington,42720
-150,2013,West Wimmera,4123
-151,2013,Whitehorse,162080
-152,2013,Whittlesea,179271
-153,2013,Wodonga,37574
-154,2013,Wyndham,190210
-155,2013,Yarra,83961
-156,2013,Yarra Ranges,150901
-157,2013,Yarriambiack,7031
-158,2014,Alpine,12354
-159,2014,Ararat,11559
-160,2014,Ballarat,99913
-161,2014,Banyule,125106
-162,2014,Bass Coast,31916
-163,2014,Baw Baw,46643
-164,2014,Bayside,99796
-165,2014,Benalla,13897
-166,2014,Boroondara,172659
-167,2014,Brimbank,198467
-168,2014,Buloke,6334
-169,2014,Campaspe,37337
-170,2014,Cardinia,88069
-171,2014,Casey,287936
-172,2014,Central Goldfields,12883
-173,2014,Colac-Otway,21130
-174,2014,Corangamite,16339
-175,2014,Darebin,149510
-176,2014,East Gippsland,44276
-177,2014,Frankston,136180
-178,2014,Gannawarra,10533
-179,2014,Glen Eira,143693
-180,2014,Glenelg,19754
-181,2014,Golden Plains,20898
-182,2014,Greater Bendigo,107954
-183,2014,Greater Dandenong,152134
-184,2014,Greater Geelong,227743
-185,2014,Greater Shepparton,63918
-186,2014,Hepburn,15183
-187,2014,Hindmarsh,5843
-188,2014,Hobsons Bay,90416
-189,2014,Horsham,19747
-190,2014,Hume,191277
-191,2014,Indigo,15731
-192,2014,Kingston,154209
-193,2014,Knox,157433
-194,2014,Latrobe,74133
-195,2014,Loddon,7512
-196,2014,Macedon Ranges,45470
-197,2014,Manningham,119436
-198,2014,Mansfield,8394
-199,2014,Maribyrnong,82462
-200,2014,Maroondah,111420
-201,2014,Melbourne,127974
-202,2014,Melton,129308
-203,2014,Mildura,53736
-204,2014,Mitchell,39083
-205,2014,Moira,29099
-206,2014,Monash,186149
-207,2014,Moonee Valley,117762
-208,2014,Moorabool,31065
-209,2014,Moreland,164098
-210,2014,Mornington Peninsula,156499
-211,2014,Mount Alexander,18500
-212,2014,Moyne,16511
-213,2014,Murrindindi,13686
-214,2014,Nillumbik,63432
-215,2014,Northern Grampians,11776
-216,2014,Port Phillip,104450
-217,2014,Pyrenees,7046
-218,2014,Queenscliffe,2970
-219,2014,South Gippsland,28520
-220,2014,Southern Grampians,16254
-221,2014,Stonnington,105893
-222,2014,Strathbogie,10017
-223,2014,Surf Coast,28873
-224,2014,Swan Hill,20939
-225,2014,Towong,5981
-226,2014,Wangaratta,27861
-227,2014,Warrnambool,33728
-228,2014,Wellington,42947
-229,2014,West Wimmera,4037
-230,2014,Whitehorse,164319
-231,2014,Whittlesea,187898
-232,2014,Wodonga,38368
-233,2014,Wyndham,201511
-234,2014,Yarra,87227
-235,2014,Yarra Ranges,151967
-236,2014,Yarriambiack,6923
-237,2015,Alpine,12428
-238,2015,Ararat,11643
-239,2015,Ballarat,101478
-240,2015,Banyule,126087
-241,2015,Bass Coast,32575
-242,2015,Baw Baw,47836
-243,2015,Bayside,101267
-244,2015,Benalla,13922
-245,2015,Boroondara,174752
-246,2015,Brimbank,200859
-247,2015,Buloke,6305
-248,2015,Campaspe,37428
-249,2015,Cardinia,92297
-250,2015,Casey,299527
-251,2015,Central Goldfields,12949
-252,2015,Colac-Otway,21229
-253,2015,Corangamite,16273
-254,2015,Darebin,151973
-255,2015,East Gippsland,44867
-256,2015,Frankston,137789
-257,2015,Gannawarra,10535
-258,2015,Glen Eira,145923
-259,2015,Glenelg,19721
-260,2015,Golden Plains,21387
-261,2015,Greater Bendigo,109907
-262,2015,Greater Dandenong,156060
-263,2015,Greater Geelong,232925
-264,2015,Greater Shepparton,64488
-265,2015,Hepburn,15333
-266,2015,Hindmarsh,5807
-267,2015,Hobsons Bay,91673
-268,2015,Horsham,19791
-269,2015,Hume,198175
-270,2015,Indigo,15921
-271,2015,Kingston,156243
-272,2015,Knox,158699
-273,2015,Latrobe,74265
-274,2015,Loddon,7530
-275,2015,Macedon Ranges,46372
-276,2015,Manningham,120784
-277,2015,Mansfield,8529
-278,2015,Maribyrnong,84782
-279,2015,Maroondah,113022
-280,2015,Melbourne,136871
-281,2015,Melton,134914
-282,2015,Mildura,54155
-283,2015,Mitchell,40263
-284,2015,Moira,29287
-285,2015,Monash,189173
-286,2015,Moonee Valley,120230
-287,2015,Moorabool,31747
-288,2015,Moreland,167869
-289,2015,Mornington Peninsula,158830
-290,2015,Mount Alexander,18793
-291,2015,Moyne,16590
-292,2015,Murrindindi,13847
-293,2015,Nillumbik,63674
-294,2015,Northern Grampians,11643
-295,2015,Port Phillip,106380
-296,2015,Pyrenees,7178
-297,2015,Queenscliffe,2932
-298,2015,South Gippsland,28780
-299,2015,Southern Grampians,16161
-300,2015,Stonnington,108027
-301,2015,Strathbogie,10174
-302,2015,Surf Coast,29624
-303,2015,Swan Hill,20892
-304,2015,Towong,6004
-305,2015,Wangaratta,28142
-306,2015,Warrnambool,34004
-307,2015,Wellington,43171
-308,2015,West Wimmera,3973
-309,2015,Whitehorse,166678
-310,2015,Whittlesea,196846
-311,2015,Wodonga,39222
-312,2015,Wyndham,213814
-313,2015,Yarra,89922
-314,2015,Yarra Ranges,153390
-315,2015,Yarriambiack,6825
-316,2016,Alpine,12577
-317,2016,Ararat,11744
-318,2016,Ballarat,103499
-319,2016,Banyule,127446
-320,2016,Bass Coast,33463
-321,2016,Baw Baw,49295
-322,2016,Bayside,102911
-323,2016,Benalla,13981
-324,2016,Boroondara,177275
-325,2016,Brimbank,204189
-326,2016,Buloke,6283
-327,2016,Campaspe,37594
-328,2016,Cardinia,97572
-329,2016,Casey,312788
-330,2016,Central Goldfields,13086
-331,2016,Colac-Otway,21361
-332,2016,Corangamite,16242
-333,2016,Darebin,155125
-334,2016,East Gippsland,45599
-335,2016,Frankston,139501
-336,2016,Gannawarra,10566
-337,2016,Glen Eira,148582
-338,2016,Glenelg,19758
-339,2016,Golden Plains,22015
-340,2016,Greater Bendigo,112266
-341,2016,Greater Dandenong,160221
-342,2016,Greater Geelong,239528
-343,2016,Greater Shepparton,65071
-344,2016,Hepburn,15524
-345,2016,Hindmarsh,5783
-346,2016,Hobsons Bay,93444
-347,2016,Horsham,19883
-348,2016,Hume,207040
-349,2016,Indigo,16164
-350,2016,Kingston,158940
-351,2016,Knox,160352
-352,2016,Latrobe,74621
-353,2016,Loddon,7557
-354,2016,Macedon Ranges,47479
-355,2016,Manningham,122569
-356,2016,Mansfield,8673
-357,2016,Maribyrnong,86941
-358,2016,Maroondah,114799
-359,2016,Melbourne,146095
-360,2016,Melton,141419
-361,2016,Mildura,54657
-362,2016,Mitchell,41794
-363,2016,Moira,29485
-364,2016,Monash,192624
-365,2016,Moonee Valley,122870
-366,2016,Moorabool,32671
-367,2016,Moreland,172293
-368,2016,Mornington Peninsula,161527
-369,2016,Mount Alexander,19096
-370,2016,Moyne,16736
-371,2016,Murrindindi,14051
-372,2016,Nillumbik,64173
-373,2016,Northern Grampians,11569
-374,2016,Port Phillip,108626
-375,2016,Pyrenees,7315
-376,2016,Queenscliffe,2928
-377,2016,South Gippsland,29121
-378,2016,Southern Grampians,16122
-379,2016,Stonnington,111002
-380,2016,Strathbogie,10356
-381,2016,Surf Coast,30464
-382,2016,Swan Hill,20895
-383,2016,Towong,6045
-384,2016,Wangaratta,28591
-385,2016,Warrnambool,34241
-386,2016,Wellington,43529
-387,2016,West Wimmera,3936
-388,2016,Whitehorse,169640
-389,2016,Whittlesea,207057
-390,2016,Wodonga,40099
-391,2016,Wyndham,227007
-392,2016,Yarra,92893
-393,2016,Yarra Ranges,155225
-394,2016,Yarriambiack,6742
-395,2017,Alpine,12637
-396,2017,Ararat,11755
-397,2017,Ballarat,105421
-398,2017,Banyule,129114
-399,2017,Bass Coast,34385
-400,2017,Baw Baw,50675
-401,2017,Bayside,104281
-402,2017,Benalla,13973
-403,2017,Boroondara,179676
-404,2017,Brimbank,206996
-405,2017,Buloke,6204
-406,2017,Campaspe,37596
-407,2017,Cardinia,102402
-408,2017,Casey,326770
-409,2017,Central Goldfields,13147
-410,2017,Colac-Otway,21429
-411,2017,Corangamite,16209
-412,2017,Darebin,158750
-413,2017,East Gippsland,46135
-414,2017,Frankston,140717
-415,2017,Gannawarra,10568
-416,2017,Glen Eira,151456
-417,2017,Glenelg,19691
-418,2017,Golden Plains,22567
-419,2017,Greater Bendigo,114090
-420,2017,Greater Dandenong,163517
-421,2017,Greater Geelong,245727
-422,2017,Greater Shepparton,65553
-423,2017,Hepburn,15628
-424,2017,Hindmarsh,5717
-425,2017,Hobsons Bay,95070
-426,2017,Horsham,19884
-427,2017,Hume,215237
-428,2017,Indigo,16332
-429,2017,Kingston,161050
-430,2017,Knox,161826
-431,2017,Latrobe,74907
-432,2017,Loddon,7506
-433,2017,Macedon Ranges,48421
-434,2017,Manningham,124269
-435,2017,Mansfield,8795
-436,2017,Maribyrnong,89361
-437,2017,Maroondah,116320
-438,2017,Melbourne,159140
-439,2017,Melton,148617
-440,2017,Mildura,55141
-441,2017,Mitchell,42902
-442,2017,Moira,29651
-443,2017,Monash,196921
-444,2017,Moonee Valley,125410
-445,2017,Moorabool,33441
-446,2017,Moreland,176973
-447,2017,Mornington Peninsula,163833
-448,2017,Mount Alexander,19296
-449,2017,Moyne,16792
-450,2017,Murrindindi,14233
-451,2017,Nillumbik,64617
-452,2017,Northern Grampians,11516
-453,2017,Port Phillip,110655
-454,2017,Pyrenees,7357
-455,2017,Queenscliffe,2958
-456,2017,South Gippsland,29320
-457,2017,Southern Grampians,16122
-458,2017,Stonnington,113771
-459,2017,Strathbogie,10483
-460,2017,Surf Coast,31346
-461,2017,Swan Hill,20846
-462,2017,Towong,6038
-463,2017,Wangaratta,28852
-464,2017,Warrnambool,34568
-465,2017,Wellington,43800
-466,2017,West Wimmera,3893
-467,2017,Whitehorse,173262
-468,2017,Whittlesea,215685
-469,2017,Wodonga,40811
-470,2017,Wyndham,241070
-471,2017,Yarra,95993
-472,2017,Yarra Ranges,156868
-473,2017,Yarriambiack,6683
-474,2018,Alpine,12729
-475,2018,Ararat,11794
-476,2018,Ballarat,107323
-477,2018,Banyule,130249
-478,2018,Bass Coast,35325
-479,2018,Baw Baw,52011
-480,2018,Bayside,105744
-481,2018,Benalla,14022
-482,2018,Boroondara,181375
-483,2018,Brimbank,208743
-484,2018,Buloke,6182
-485,2018,Campaspe,37589
-486,2018,Cardinia,107116
-487,2018,Casey,340442
-488,2018,Central Goldfields,13207
-489,2018,Colac-Otway,21501
-490,2018,Corangamite,16138
-491,2018,Darebin,161652
-492,2018,East Gippsland,46815
-493,2018,Frankston,141846
-494,2018,Gannawarra,10545
-495,2018,Glen Eira,153919
-496,2018,Glenelg,19663
-497,2018,Golden Plains,23117
-498,2018,Greater Bendigo,116040
-499,2018,Greater Dandenong,166139
-500,2018,Greater Geelong,252228
-501,2018,Greater Shepparton,66007
-502,2018,Hepburn,15811
-503,2018,Hindmarsh,5643
-504,2018,Hobsons Bay,96480
-505,2018,Horsham,19873
-506,2018,Hume,224422
-507,2018,Indigo,16488
-508,2018,Kingston,163451
-509,2018,Knox,163211
-510,2018,Latrobe,75208
-511,2018,Loddon,7512
-512,2018,Macedon Ranges,49386
-513,2018,Manningham,125534
-514,2018,Mansfield,8978
-515,2018,Maribyrnong,91412
-516,2018,Maroondah,117504
-517,2018,Melbourne,170316
-518,2018,Melton,156717
-519,2018,Mildura,55515
-520,2018,Mitchell,44297
-521,2018,Moira,29796
-522,2018,Monash,200211
-523,2018,Moonee Valley,127905
-524,2018,Moorabool,34155
-525,2018,Moreland,181779
-526,2018,Mornington Peninsula,165822
-527,2018,Mount Alexander,19513
-528,2018,Moyne,16886
-529,2018,Murrindindi,14477
-530,2018,Nillumbik,64940
-531,2018,Northern Grampians,11429
-532,2018,Port Phillip,113264
-533,2018,Pyrenees,7352
-534,2018,Queenscliffe,2981
-535,2018,South Gippsland,29574
-536,2018,Southern Grampians,16133
-537,2018,Stonnington,116280
-538,2018,Strathbogie,10643
-539,2018,Surf Coast,32251
-540,2018,Swan Hill,20759
-541,2018,Towong,6053
-542,2018,Wangaratta,29085
-543,2018,Warrnambool,34862
-544,2018,Wellington,44016
-545,2018,West Wimmera,3861
-546,2018,Whitehorse,176272
-547,2018,Whittlesea,223346
-548,2018,Wodonga,41428
-549,2018,Wyndham,255366
-550,2018,Yarra,98566
-551,2018,Yarra Ranges,158170
-552,2018,Yarriambiack,6657
-553,2019,Alpine,12811
-554,2019,Ararat,11843
-555,2019,Ballarat,109503
-556,2019,Banyule,131639
-557,2019,Bass Coast,36314
-558,2019,Baw Baw,53393
-559,2019,Bayside,106855
-560,2019,Benalla,14033
-561,2019,Boroondara,183196
-562,2019,Brimbank,209567
-563,2019,Buloke,6122
-564,2019,Campaspe,37614
-565,2019,Cardinia,112178
-566,2019,Casey,353961
-567,2019,Central Goldfields,13181
-568,2019,Colac-Otway,21561
-569,2019,Corangamite,16016
-570,2019,Darebin,164223
-571,2019,East Gippsland,47307
-572,2019,Frankston,142644
-573,2019,Gannawarra,10468
-574,2019,Glen Eira,156534
-575,2019,Glenelg,19670
-576,2019,Golden Plains,23721
-577,2019,Greater Bendigo,118090
-578,2019,Greater Dandenong,168260
-579,2019,Greater Geelong,258937
-580,2019,Greater Shepparton,66500
-581,2019,Hepburn,15972
-582,2019,Hindmarsh,5585
-583,2019,Hobsons Bay,97764
-584,2019,Horsham,19919
-585,2019,Hume,233544
-586,2019,Indigo,16698
-587,2019,Kingston,165803
-588,2019,Knox,164552
-589,2019,Latrobe,75552
-590,2019,Loddon,7501
-591,2019,Macedon Ranges,50229
-592,2019,Manningham,127584
-593,2019,Mansfield,9174
-594,2019,Maribyrnong,93481
-595,2019,Maroondah,118568
-596,2019,Melbourne,178993
-597,2019,Melton,164935
-598,2019,Mildura,55778
-599,2019,Mitchell,46086
-600,2019,Moira,29919
-601,2019,Monash,202895
-602,2019,Moonee Valley,130312
-603,2019,Moorabool,35050
-604,2019,Moreland,185810
-605,2019,Mornington Peninsula,167618
-606,2019,Mount Alexander,19750
-607,2019,Moyne,16951
-608,2019,Murrindindi,14567
-609,2019,Nillumbik,65098
-610,2019,Northern Grampians,11400
-611,2019,Port Phillip,115619
-612,2019,Pyrenees,7469
-613,2019,Queenscliffe,2938
-614,2019,South Gippsland,29909
-615,2019,Southern Grampians,16097
-616,2019,Stonnington,117775
-617,2019,Strathbogie,10777
-618,2019,Surf Coast,33456
-619,2019,Swan Hill,20649
-620,2019,Towong,6038
-621,2019,Wangaratta,29183
-622,2019,Warrnambool,35180
-623,2019,Wellington,44377
-624,2019,West Wimmera,3838
-625,2019,Whitehorse,178778
-626,2019,Whittlesea,230296
-627,2019,Wodonga,42082
-628,2019,Wyndham,270606
-629,2019,Yarra,101515
-630,2019,Yarra Ranges,159473
-631,2019,Yarriambiack,6636
-632,2020,Alpine,12972
-633,2020,Ararat,11964
-634,2020,Ballarat,111360
-635,2020,Banyule,131939
-636,2020,Bass Coast,37444
-637,2020,Baw Baw,54883
-638,2020,Bayside,107540
-639,2020,Benalla,14136
-640,2020,Boroondara,183022
-641,2020,Brimbank,208246
-642,2020,Buloke,6100
-643,2020,Campaspe,37674
-644,2020,Cardinia,116192
-645,2020,Casey,364599
-646,2020,Central Goldfields,13091
-647,2020,Colac-Otway,21661
-648,2020,Corangamite,15928
-649,2020,Darebin,166429
-650,2020,East Gippsland,47724
-651,2020,Frankston,143337
-652,2020,Gannawarra,10399
-653,2020,Glen Eira,158215
-654,2020,Glenelg,19620
-655,2020,Golden Plains,24248
-656,2020,Greater Bendigo,119979
-657,2020,Greater Dandenong,168361
-658,2020,Greater Geelong,264865
-659,2020,Greater Shepparton,67069
-660,2020,Hepburn,16156
-661,2020,Hindmarsh,5591
-662,2020,Hobsons Bay,98188
-663,2020,Horsham,20017
-664,2020,Hume,241187
-665,2020,Indigo,16884
-666,2020,Kingston,167292
-667,2020,Knox,165146
-668,2020,Latrobe,75914
-669,2020,Loddon,7472
-670,2020,Macedon Ranges,50970
-671,2020,Manningham,128928
-672,2020,Mansfield,9473
-673,2020,Maribyrnong,94981
-674,2020,Maroondah,119400
-675,2020,Melbourne,183755
-676,2020,Melton,172499
-677,2020,Mildura,55936
-678,2020,Mitchell,47646
-679,2020,Moira,30017
-680,2020,Monash,204935
-681,2020,Moonee Valley,131752
-682,2020,Moorabool,36012
-683,2020,Moreland,188761
-684,2020,Mornington Peninsula,168861
-685,2020,Mount Alexander,20000
-686,2020,Moyne,17026
-687,2020,Murrindindi,14660
-688,2020,Nillumbik,65218
-689,2020,Northern Grampians,11402
-690,2020,Port Phillip,116475
-691,2020,Pyrenees,7554
-692,2020,Queenscliffe,3007
-693,2020,South Gippsland,30247
-694,2020,Southern Grampians,16133
-695,2020,Stonnington,118613
-696,2020,Strathbogie,10991
-697,2020,Surf Coast,34770
-698,2020,Swan Hill,20533
-699,2020,Towong,6101
-700,2020,Wangaratta,29196
-701,2020,Warrnambool,35532
-702,2020,Wellington,44769
-703,2020,West Wimmera,3809
-704,2020,Whitehorse,180734
-705,2020,Whittlesea,236538
-706,2020,Wodonga,42661
-707,2020,Wyndham,283293
-708,2020,Yarra,103124
-709,2020,Yarra Ranges,159954
-710,2020,Yarriambiack,6587
-711,2021,Alpine,13098
-712,2021,Ararat,12004
-713,2021,Ballarat,113350
-714,2021,Banyule,131437
-715,2021,Bass Coast,38586
-716,2021,Baw Baw,56217
-717,2021,Bayside,106919
-718,2021,Benalla,14220
-719,2021,Boroondara,178101
-720,2021,Brimbank,202841
-721,2021,Buloke,6028
-722,2021,Campaspe,37612
-723,2021,Cardinia,118392
-724,2021,Casey,369441
-725,2021,Central Goldfields,13053
-726,2021,Colac-Otway,21625
-727,2021,Corangamite,15714
-728,2021,Darebin,164879
-729,2021,East Gippsland,48170
-730,2021,Frankston,143051
-731,2021,Gannawarra,10321
-732,2021,Glen Eira,155888
-733,2021,Glenelg,19552
-734,2021,Golden Plains,24738
-735,2021,Greater Bendigo,121959
-736,2021,Greater Dandenong,164349
-737,2021,Greater Geelong,270978
-738,2021,Greater Shepparton,67287
-739,2021,Hepburn,16185
-740,2021,Hindmarsh,5517
-741,2021,Hobsons Bay,97353
-742,2021,Horsham,19964
-743,2021,Hume,245563
-744,2021,Indigo,17118
-745,2021,Kingston,165927
-746,2021,Knox,164301
-747,2021,Latrobe,76257
-748,2021,Loddon,7474
-749,2021,Macedon Ranges,51652
-750,2021,Manningham,127427
-751,2021,Mansfield,9586
-752,2021,Maribyrnong,93924
-753,2021,Maroondah,118872
-754,2021,Melbourne,167476
-755,2021,Melton,179818
-756,2021,Mildura,55754
-757,2021,Mitchell,48537
-758,2021,Moira,29961
-759,2021,Monash,198296
-760,2021,Moonee Valley,130790
-761,2021,Moorabool,36815
-762,2021,Moreland,187013
-763,2021,Mornington Peninsula,169512
-764,2021,Mount Alexander,20145
-765,2021,Moyne,16996
-766,2021,Murrindindi,14922
-767,2021,Nillumbik,64864
-768,2021,Northern Grampians,11273
-769,2021,Port Phillip,113416
-770,2021,Pyrenees,7562
-771,2021,Queenscliffe,3018
-772,2021,South Gippsland,30535
-773,2021,Southern Grampians,16041
-774,2021,Stonnington,115455
-775,2021,Strathbogie,11069
-776,2021,Surf Coast,35870
-777,2021,Swan Hill,20381
-778,2021,Towong,6140
-779,2021,Wangaratta,29201
-780,2021,Warrnambool,35531
-781,2021,Wellington,45132
-782,2021,West Wimmera,3769
-783,2021,Whitehorse,177227
-784,2021,Whittlesea,238072
-785,2021,Wodonga,43147
-786,2021,Wyndham,290654
-787,2021,Yarra,100852
-788,2021,Yarra Ranges,159102
-789,2021,Yarriambiack,6445
+Year,Local Government Area,Total Population
+2012,Alpine,12182
+2012,Ararat,11399
+2012,Ballarat,96727
+2012,Banyule,123583
+2012,Bass Coast,30811
+2012,Baw Baw,44505
+2012,Bayside,96970
+2012,Benalla,13848
+2012,Boroondara,168482
+2012,Brimbank,193773
+2012,Buloke,6433
+2012,Campaspe,37040
+2012,Cardinia,80421
+2012,Casey,269239
+2012,Central Goldfields,12713
+2012,Colac-Otway,20901
+2012,Corangamite,16469
+2012,Darebin,144985
+2012,East Gippsland,43328
+2012,Frankston,132193
+2012,Gannawarra,10497
+2012,Glen Eira,139115
+2012,Glenelg,19824
+2012,Golden Plains,19603
+2012,Greater Bendigo,103904
+2012,Greater Dandenong,145115
+2012,Greater Geelong,219151
+2012,Greater Shepparton,62561
+2012,Hepburn,14824
+2012,Hindmarsh,5856
+2012,Hobsons Bay,88338
+2012,Horsham,19607
+2012,Hume,179201
+2012,Indigo,15453
+2012,Kingston,150434
+2012,Knox,155405
+2012,Latrobe,74003
+2012,Loddon,7528
+2012,Macedon Ranges,43793
+2012,Manningham,117439
+2012,Mansfield,8096
+2012,Maribyrnong,77178
+2012,Maroondah,108433
+2012,Melbourne,107577
+2012,Melton,118328
+2012,Mildura,52474
+2012,Mitchell,36383
+2012,Moira,28674
+2012,Monash,180311
+2012,Moonee Valley,113672
+2012,Moorabool,29362
+2012,Moreland,156966
+2012,Mornington Peninsula,151699
+2012,Mount Alexander,18052
+2012,Moyne,16303
+2012,Murrindindi,13455
+2012,Nillumbik,62934
+2012,Northern Grampians,11969
+2012,Port Phillip,99892
+2012,Pyrenees,6859
+2012,Queenscliffe,3056
+2012,South Gippsland,27925
+2012,Southern Grampians,16460
+2012,Stonnington,101409
+2012,Strathbogie,9743
+2012,Surf Coast,27529
+2012,Swan Hill,20970
+2012,Towong,5939
+2012,Wangaratta,27437
+2012,Warrnambool,33058
+2012,Wellington,42444
+2012,West Wimmera,4213
+2012,Whitehorse,159660
+2012,Whittlesea,169992
+2012,Wodonga,36757
+2012,Wyndham,179130
+2012,Yarra,81267
+2012,Yarra Ranges,149863
+2012,Yarriambiack,7094
+2013,Alpine,12282
+2013,Ararat,11489
+2013,Ballarat,98343
+2013,Banyule,124313
+2013,Bass Coast,31330
+2013,Baw Baw,45626
+2013,Bayside,98251
+2013,Benalla,13877
+2013,Boroondara,170484
+2013,Brimbank,196168
+2013,Buloke,6387
+2013,Campaspe,37212
+2013,Cardinia,84590
+2013,Casey,278022
+2013,Central Goldfields,12814
+2013,Colac-Otway,21034
+2013,Corangamite,16409
+2013,Darebin,147271
+2013,East Gippsland,43808
+2013,Frankston,134350
+2013,Gannawarra,10525
+2013,Glen Eira,141259
+2013,Glenelg,19796
+2013,Golden Plains,20361
+2013,Greater Bendigo,105956
+2013,Greater Dandenong,148501
+2013,Greater Geelong,223356
+2013,Greater Shepparton,63243
+2013,Hepburn,15021
+2013,Hindmarsh,5851
+2013,Hobsons Bay,89187
+2013,Horsham,19693
+2013,Hume,184872
+2013,Indigo,15604
+2013,Kingston,152335
+2013,Knox,156346
+2013,Latrobe,74123
+2013,Loddon,7517
+2013,Macedon Ranges,44594
+2013,Manningham,118356
+2013,Mansfield,8275
+2013,Maribyrnong,79781
+2013,Maroondah,109780
+2013,Melbourne,118710
+2013,Melton,123935
+2013,Mildura,53155
+2013,Mitchell,37787
+2013,Moira,28904
+2013,Monash,183254
+2013,Moonee Valley,115463
+2013,Moorabool,30409
+2013,Moreland,160281
+2013,Mornington Peninsula,154000
+2013,Mount Alexander,18246
+2013,Moyne,16430
+2013,Murrindindi,13562
+2013,Nillumbik,63173
+2013,Northern Grampians,11879
+2013,Port Phillip,102155
+2013,Pyrenees,6937
+2013,Queenscliffe,3001
+2013,South Gippsland,28272
+2013,Southern Grampians,16354
+2013,Stonnington,103486
+2013,Strathbogie,9866
+2013,Surf Coast,28227
+2013,Swan Hill,21002
+2013,Towong,5960
+2013,Wangaratta,27649
+2013,Warrnambool,33422
+2013,Wellington,42720
+2013,West Wimmera,4123
+2013,Whitehorse,162080
+2013,Whittlesea,179271
+2013,Wodonga,37574
+2013,Wyndham,190210
+2013,Yarra,83961
+2013,Yarra Ranges,150901
+2013,Yarriambiack,7031
+2014,Alpine,12354
+2014,Ararat,11559
+2014,Ballarat,99913
+2014,Banyule,125106
+2014,Bass Coast,31916
+2014,Baw Baw,46643
+2014,Bayside,99796
+2014,Benalla,13897
+2014,Boroondara,172659
+2014,Brimbank,198467
+2014,Buloke,6334
+2014,Campaspe,37337
+2014,Cardinia,88069
+2014,Casey,287936
+2014,Central Goldfields,12883
+2014,Colac-Otway,21130
+2014,Corangamite,16339
+2014,Darebin,149510
+2014,East Gippsland,44276
+2014,Frankston,136180
+2014,Gannawarra,10533
+2014,Glen Eira,143693
+2014,Glenelg,19754
+2014,Golden Plains,20898
+2014,Greater Bendigo,107954
+2014,Greater Dandenong,152134
+2014,Greater Geelong,227743
+2014,Greater Shepparton,63918
+2014,Hepburn,15183
+2014,Hindmarsh,5843
+2014,Hobsons Bay,90416
+2014,Horsham,19747
+2014,Hume,191277
+2014,Indigo,15731
+2014,Kingston,154209
+2014,Knox,157433
+2014,Latrobe,74133
+2014,Loddon,7512
+2014,Macedon Ranges,45470
+2014,Manningham,119436
+2014,Mansfield,8394
+2014,Maribyrnong,82462
+2014,Maroondah,111420
+2014,Melbourne,127974
+2014,Melton,129308
+2014,Mildura,53736
+2014,Mitchell,39083
+2014,Moira,29099
+2014,Monash,186149
+2014,Moonee Valley,117762
+2014,Moorabool,31065
+2014,Moreland,164098
+2014,Mornington Peninsula,156499
+2014,Mount Alexander,18500
+2014,Moyne,16511
+2014,Murrindindi,13686
+2014,Nillumbik,63432
+2014,Northern Grampians,11776
+2014,Port Phillip,104450
+2014,Pyrenees,7046
+2014,Queenscliffe,2970
+2014,South Gippsland,28520
+2014,Southern Grampians,16254
+2014,Stonnington,105893
+2014,Strathbogie,10017
+2014,Surf Coast,28873
+2014,Swan Hill,20939
+2014,Towong,5981
+2014,Wangaratta,27861
+2014,Warrnambool,33728
+2014,Wellington,42947
+2014,West Wimmera,4037
+2014,Whitehorse,164319
+2014,Whittlesea,187898
+2014,Wodonga,38368
+2014,Wyndham,201511
+2014,Yarra,87227
+2014,Yarra Ranges,151967
+2014,Yarriambiack,6923
+2015,Alpine,12428
+2015,Ararat,11643
+2015,Ballarat,101478
+2015,Banyule,126087
+2015,Bass Coast,32575
+2015,Baw Baw,47836
+2015,Bayside,101267
+2015,Benalla,13922
+2015,Boroondara,174752
+2015,Brimbank,200859
+2015,Buloke,6305
+2015,Campaspe,37428
+2015,Cardinia,92297
+2015,Casey,299527
+2015,Central Goldfields,12949
+2015,Colac-Otway,21229
+2015,Corangamite,16273
+2015,Darebin,151973
+2015,East Gippsland,44867
+2015,Frankston,137789
+2015,Gannawarra,10535
+2015,Glen Eira,145923
+2015,Glenelg,19721
+2015,Golden Plains,21387
+2015,Greater Bendigo,109907
+2015,Greater Dandenong,156060
+2015,Greater Geelong,232925
+2015,Greater Shepparton,64488
+2015,Hepburn,15333
+2015,Hindmarsh,5807
+2015,Hobsons Bay,91673
+2015,Horsham,19791
+2015,Hume,198175
+2015,Indigo,15921
+2015,Kingston,156243
+2015,Knox,158699
+2015,Latrobe,74265
+2015,Loddon,7530
+2015,Macedon Ranges,46372
+2015,Manningham,120784
+2015,Mansfield,8529
+2015,Maribyrnong,84782
+2015,Maroondah,113022
+2015,Melbourne,136871
+2015,Melton,134914
+2015,Mildura,54155
+2015,Mitchell,40263
+2015,Moira,29287
+2015,Monash,189173
+2015,Moonee Valley,120230
+2015,Moorabool,31747
+2015,Moreland,167869
+2015,Mornington Peninsula,158830
+2015,Mount Alexander,18793
+2015,Moyne,16590
+2015,Murrindindi,13847
+2015,Nillumbik,63674
+2015,Northern Grampians,11643
+2015,Port Phillip,106380
+2015,Pyrenees,7178
+2015,Queenscliffe,2932
+2015,South Gippsland,28780
+2015,Southern Grampians,16161
+2015,Stonnington,108027
+2015,Strathbogie,10174
+2015,Surf Coast,29624
+2015,Swan Hill,20892
+2015,Towong,6004
+2015,Wangaratta,28142
+2015,Warrnambool,34004
+2015,Wellington,43171
+2015,West Wimmera,3973
+2015,Whitehorse,166678
+2015,Whittlesea,196846
+2015,Wodonga,39222
+2015,Wyndham,213814
+2015,Yarra,89922
+2015,Yarra Ranges,153390
+2015,Yarriambiack,6825
+2016,Alpine,12577
+2016,Ararat,11744
+2016,Ballarat,103499
+2016,Banyule,127446
+2016,Bass Coast,33463
+2016,Baw Baw,49295
+2016,Bayside,102911
+2016,Benalla,13981
+2016,Boroondara,177275
+2016,Brimbank,204189
+2016,Buloke,6283
+2016,Campaspe,37594
+2016,Cardinia,97572
+2016,Casey,312788
+2016,Central Goldfields,13086
+2016,Colac-Otway,21361
+2016,Corangamite,16242
+2016,Darebin,155125
+2016,East Gippsland,45599
+2016,Frankston,139501
+2016,Gannawarra,10566
+2016,Glen Eira,148582
+2016,Glenelg,19758
+2016,Golden Plains,22015
+2016,Greater Bendigo,112266
+2016,Greater Dandenong,160221
+2016,Greater Geelong,239528
+2016,Greater Shepparton,65071
+2016,Hepburn,15524
+2016,Hindmarsh,5783
+2016,Hobsons Bay,93444
+2016,Horsham,19883
+2016,Hume,207040
+2016,Indigo,16164
+2016,Kingston,158940
+2016,Knox,160352
+2016,Latrobe,74621
+2016,Loddon,7557
+2016,Macedon Ranges,47479
+2016,Manningham,122569
+2016,Mansfield,8673
+2016,Maribyrnong,86941
+2016,Maroondah,114799
+2016,Melbourne,146095
+2016,Melton,141419
+2016,Mildura,54657
+2016,Mitchell,41794
+2016,Moira,29485
+2016,Monash,192624
+2016,Moonee Valley,122870
+2016,Moorabool,32671
+2016,Moreland,172293
+2016,Mornington Peninsula,161527
+2016,Mount Alexander,19096
+2016,Moyne,16736
+2016,Murrindindi,14051
+2016,Nillumbik,64173
+2016,Northern Grampians,11569
+2016,Port Phillip,108626
+2016,Pyrenees,7315
+2016,Queenscliffe,2928
+2016,South Gippsland,29121
+2016,Southern Grampians,16122
+2016,Stonnington,111002
+2016,Strathbogie,10356
+2016,Surf Coast,30464
+2016,Swan Hill,20895
+2016,Towong,6045
+2016,Wangaratta,28591
+2016,Warrnambool,34241
+2016,Wellington,43529
+2016,West Wimmera,3936
+2016,Whitehorse,169640
+2016,Whittlesea,207057
+2016,Wodonga,40099
+2016,Wyndham,227007
+2016,Yarra,92893
+2016,Yarra Ranges,155225
+2016,Yarriambiack,6742
+2017,Alpine,12637
+2017,Ararat,11755
+2017,Ballarat,105421
+2017,Banyule,129114
+2017,Bass Coast,34385
+2017,Baw Baw,50675
+2017,Bayside,104281
+2017,Benalla,13973
+2017,Boroondara,179676
+2017,Brimbank,206996
+2017,Buloke,6204
+2017,Campaspe,37596
+2017,Cardinia,102402
+2017,Casey,326770
+2017,Central Goldfields,13147
+2017,Colac-Otway,21429
+2017,Corangamite,16209
+2017,Darebin,158750
+2017,East Gippsland,46135
+2017,Frankston,140717
+2017,Gannawarra,10568
+2017,Glen Eira,151456
+2017,Glenelg,19691
+2017,Golden Plains,22567
+2017,Greater Bendigo,114090
+2017,Greater Dandenong,163517
+2017,Greater Geelong,245727
+2017,Greater Shepparton,65553
+2017,Hepburn,15628
+2017,Hindmarsh,5717
+2017,Hobsons Bay,95070
+2017,Horsham,19884
+2017,Hume,215237
+2017,Indigo,16332
+2017,Kingston,161050
+2017,Knox,161826
+2017,Latrobe,74907
+2017,Loddon,7506
+2017,Macedon Ranges,48421
+2017,Manningham,124269
+2017,Mansfield,8795
+2017,Maribyrnong,89361
+2017,Maroondah,116320
+2017,Melbourne,159140
+2017,Melton,148617
+2017,Mildura,55141
+2017,Mitchell,42902
+2017,Moira,29651
+2017,Monash,196921
+2017,Moonee Valley,125410
+2017,Moorabool,33441
+2017,Moreland,176973
+2017,Mornington Peninsula,163833
+2017,Mount Alexander,19296
+2017,Moyne,16792
+2017,Murrindindi,14233
+2017,Nillumbik,64617
+2017,Northern Grampians,11516
+2017,Port Phillip,110655
+2017,Pyrenees,7357
+2017,Queenscliffe,2958
+2017,South Gippsland,29320
+2017,Southern Grampians,16122
+2017,Stonnington,113771
+2017,Strathbogie,10483
+2017,Surf Coast,31346
+2017,Swan Hill,20846
+2017,Towong,6038
+2017,Wangaratta,28852
+2017,Warrnambool,34568
+2017,Wellington,43800
+2017,West Wimmera,3893
+2017,Whitehorse,173262
+2017,Whittlesea,215685
+2017,Wodonga,40811
+2017,Wyndham,241070
+2017,Yarra,95993
+2017,Yarra Ranges,156868
+2017,Yarriambiack,6683
+2018,Alpine,12729
+2018,Ararat,11794
+2018,Ballarat,107323
+2018,Banyule,130249
+2018,Bass Coast,35325
+2018,Baw Baw,52011
+2018,Bayside,105744
+2018,Benalla,14022
+2018,Boroondara,181375
+2018,Brimbank,208743
+2018,Buloke,6182
+2018,Campaspe,37589
+2018,Cardinia,107116
+2018,Casey,340442
+2018,Central Goldfields,13207
+2018,Colac-Otway,21501
+2018,Corangamite,16138
+2018,Darebin,161652
+2018,East Gippsland,46815
+2018,Frankston,141846
+2018,Gannawarra,10545
+2018,Glen Eira,153919
+2018,Glenelg,19663
+2018,Golden Plains,23117
+2018,Greater Bendigo,116040
+2018,Greater Dandenong,166139
+2018,Greater Geelong,252228
+2018,Greater Shepparton,66007
+2018,Hepburn,15811
+2018,Hindmarsh,5643
+2018,Hobsons Bay,96480
+2018,Horsham,19873
+2018,Hume,224422
+2018,Indigo,16488
+2018,Kingston,163451
+2018,Knox,163211
+2018,Latrobe,75208
+2018,Loddon,7512
+2018,Macedon Ranges,49386
+2018,Manningham,125534
+2018,Mansfield,8978
+2018,Maribyrnong,91412
+2018,Maroondah,117504
+2018,Melbourne,170316
+2018,Melton,156717
+2018,Mildura,55515
+2018,Mitchell,44297
+2018,Moira,29796
+2018,Monash,200211
+2018,Moonee Valley,127905
+2018,Moorabool,34155
+2018,Moreland,181779
+2018,Mornington Peninsula,165822
+2018,Mount Alexander,19513
+2018,Moyne,16886
+2018,Murrindindi,14477
+2018,Nillumbik,64940
+2018,Northern Grampians,11429
+2018,Port Phillip,113264
+2018,Pyrenees,7352
+2018,Queenscliffe,2981
+2018,South Gippsland,29574
+2018,Southern Grampians,16133
+2018,Stonnington,116280
+2018,Strathbogie,10643
+2018,Surf Coast,32251
+2018,Swan Hill,20759
+2018,Towong,6053
+2018,Wangaratta,29085
+2018,Warrnambool,34862
+2018,Wellington,44016
+2018,West Wimmera,3861
+2018,Whitehorse,176272
+2018,Whittlesea,223346
+2018,Wodonga,41428
+2018,Wyndham,255366
+2018,Yarra,98566
+2018,Yarra Ranges,158170
+2018,Yarriambiack,6657
+2019,Alpine,12811
+2019,Ararat,11843
+2019,Ballarat,109503
+2019,Banyule,131639
+2019,Bass Coast,36314
+2019,Baw Baw,53393
+2019,Bayside,106855
+2019,Benalla,14033
+2019,Boroondara,183196
+2019,Brimbank,209567
+2019,Buloke,6122
+2019,Campaspe,37614
+2019,Cardinia,112178
+2019,Casey,353961
+2019,Central Goldfields,13181
+2019,Colac-Otway,21561
+2019,Corangamite,16016
+2019,Darebin,164223
+2019,East Gippsland,47307
+2019,Frankston,142644
+2019,Gannawarra,10468
+2019,Glen Eira,156534
+2019,Glenelg,19670
+2019,Golden Plains,23721
+2019,Greater Bendigo,118090
+2019,Greater Dandenong,168260
+2019,Greater Geelong,258937
+2019,Greater Shepparton,66500
+2019,Hepburn,15972
+2019,Hindmarsh,5585
+2019,Hobsons Bay,97764
+2019,Horsham,19919
+2019,Hume,233544
+2019,Indigo,16698
+2019,Kingston,165803
+2019,Knox,164552
+2019,Latrobe,75552
+2019,Loddon,7501
+2019,Macedon Ranges,50229
+2019,Manningham,127584
+2019,Mansfield,9174
+2019,Maribyrnong,93481
+2019,Maroondah,118568
+2019,Melbourne,178993
+2019,Melton,164935
+2019,Mildura,55778
+2019,Mitchell,46086
+2019,Moira,29919
+2019,Monash,202895
+2019,Moonee Valley,130312
+2019,Moorabool,35050
+2019,Moreland,185810
+2019,Mornington Peninsula,167618
+2019,Mount Alexander,19750
+2019,Moyne,16951
+2019,Murrindindi,14567
+2019,Nillumbik,65098
+2019,Northern Grampians,11400
+2019,Port Phillip,115619
+2019,Pyrenees,7469
+2019,Queenscliffe,2938
+2019,South Gippsland,29909
+2019,Southern Grampians,16097
+2019,Stonnington,117775
+2019,Strathbogie,10777
+2019,Surf Coast,33456
+2019,Swan Hill,20649
+2019,Towong,6038
+2019,Wangaratta,29183
+2019,Warrnambool,35180
+2019,Wellington,44377
+2019,West Wimmera,3838
+2019,Whitehorse,178778
+2019,Whittlesea,230296
+2019,Wodonga,42082
+2019,Wyndham,270606
+2019,Yarra,101515
+2019,Yarra Ranges,159473
+2019,Yarriambiack,6636
+2020,Alpine,12972
+2020,Ararat,11964
+2020,Ballarat,111360
+2020,Banyule,131939
+2020,Bass Coast,37444
+2020,Baw Baw,54883
+2020,Bayside,107540
+2020,Benalla,14136
+2020,Boroondara,183022
+2020,Brimbank,208246
+2020,Buloke,6100
+2020,Campaspe,37674
+2020,Cardinia,116192
+2020,Casey,364599
+2020,Central Goldfields,13091
+2020,Colac-Otway,21661
+2020,Corangamite,15928
+2020,Darebin,166429
+2020,East Gippsland,47724
+2020,Frankston,143337
+2020,Gannawarra,10399
+2020,Glen Eira,158215
+2020,Glenelg,19620
+2020,Golden Plains,24248
+2020,Greater Bendigo,119979
+2020,Greater Dandenong,168361
+2020,Greater Geelong,264865
+2020,Greater Shepparton,67069
+2020,Hepburn,16156
+2020,Hindmarsh,5591
+2020,Hobsons Bay,98188
+2020,Horsham,20017
+2020,Hume,241187
+2020,Indigo,16884
+2020,Kingston,167292
+2020,Knox,165146
+2020,Latrobe,75914
+2020,Loddon,7472
+2020,Macedon Ranges,50970
+2020,Manningham,128928
+2020,Mansfield,9473
+2020,Maribyrnong,94981
+2020,Maroondah,119400
+2020,Melbourne,183755
+2020,Melton,172499
+2020,Mildura,55936
+2020,Mitchell,47646
+2020,Moira,30017
+2020,Monash,204935
+2020,Moonee Valley,131752
+2020,Moorabool,36012
+2020,Moreland,188761
+2020,Mornington Peninsula,168861
+2020,Mount Alexander,20000
+2020,Moyne,17026
+2020,Murrindindi,14660
+2020,Nillumbik,65218
+2020,Northern Grampians,11402
+2020,Port Phillip,116475
+2020,Pyrenees,7554
+2020,Queenscliffe,3007
+2020,South Gippsland,30247
+2020,Southern Grampians,16133
+2020,Stonnington,118613
+2020,Strathbogie,10991
+2020,Surf Coast,34770
+2020,Swan Hill,20533
+2020,Towong,6101
+2020,Wangaratta,29196
+2020,Warrnambool,35532
+2020,Wellington,44769
+2020,West Wimmera,3809
+2020,Whitehorse,180734
+2020,Whittlesea,236538
+2020,Wodonga,42661
+2020,Wyndham,283293
+2020,Yarra,103124
+2020,Yarra Ranges,159954
+2020,Yarriambiack,6587
+2021,Alpine,13098
+2021,Ararat,12004
+2021,Ballarat,113350
+2021,Banyule,131437
+2021,Bass Coast,38586
+2021,Baw Baw,56217
+2021,Bayside,106919
+2021,Benalla,14220
+2021,Boroondara,178101
+2021,Brimbank,202841
+2021,Buloke,6028
+2021,Campaspe,37612
+2021,Cardinia,118392
+2021,Casey,369441
+2021,Central Goldfields,13053
+2021,Colac-Otway,21625
+2021,Corangamite,15714
+2021,Darebin,164879
+2021,East Gippsland,48170
+2021,Frankston,143051
+2021,Gannawarra,10321
+2021,Glen Eira,155888
+2021,Glenelg,19552
+2021,Golden Plains,24738
+2021,Greater Bendigo,121959
+2021,Greater Dandenong,164349
+2021,Greater Geelong,270978
+2021,Greater Shepparton,67287
+2021,Hepburn,16185
+2021,Hindmarsh,5517
+2021,Hobsons Bay,97353
+2021,Horsham,19964
+2021,Hume,245563
+2021,Indigo,17118
+2021,Kingston,165927
+2021,Knox,164301
+2021,Latrobe,76257
+2021,Loddon,7474
+2021,Macedon Ranges,51652
+2021,Manningham,127427
+2021,Mansfield,9586
+2021,Maribyrnong,93924
+2021,Maroondah,118872
+2021,Melbourne,167476
+2021,Melton,179818
+2021,Mildura,55754
+2021,Mitchell,48537
+2021,Moira,29961
+2021,Monash,198296
+2021,Moonee Valley,130790
+2021,Moorabool,36815
+2021,Moreland,187013
+2021,Mornington Peninsula,169512
+2021,Mount Alexander,20145
+2021,Moyne,16996
+2021,Murrindindi,14922
+2021,Nillumbik,64864
+2021,Northern Grampians,11273
+2021,Port Phillip,113416
+2021,Pyrenees,7562
+2021,Queenscliffe,3018
+2021,South Gippsland,30535
+2021,Southern Grampians,16041
+2021,Stonnington,115455
+2021,Strathbogie,11069
+2021,Surf Coast,35870
+2021,Swan Hill,20381
+2021,Towong,6140
+2021,Wangaratta,29201
+2021,Warrnambool,35531
+2021,Wellington,45132
+2021,West Wimmera,3769
+2021,Whitehorse,177227
+2021,Whittlesea,238072
+2021,Wodonga,43147
+2021,Wyndham,290654
+2021,Yarra,100852
+2021,Yarra Ranges,159102
+2021,Yarriambiack,6445
