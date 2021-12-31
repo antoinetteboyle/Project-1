@@ -63,8 +63,8 @@ pip install .\geopandas-0.9.0-py3-none-any.whl
 >The charge status indicates when a charge has been laid by Victoria Police at the time these data were extracted from the LEAP database. CSA output categories for this variable include:
 
 >- Charges Laid,
-- No Charges Laid,
-- Unsolved
+>- No Charges Laid,
+>- Unsolved
 
 >In the event that no charges have been recorded the investigation status determines whether the incident is categorised as ‘unsolved’ or ‘no charges laid’. The ‘no charges laid’ category represents all investigation statuses other than ‘unsolved’. Both charge and investigation statuses represent information at a point in time and are subject to change.
 
@@ -73,11 +73,11 @@ pip install .\geopandas-0.9.0-py3-none-any.whl
 CSA output categories include:
 
 >- Arrest/Summons
-- Caution/Official warning
-- Intent to Summons
-- Other
-- Unsolved
-- Other includes: Penalty infringement notice, caution not authorised, complaint withdrawn, notice to appear, no offence disclosed, not authorised, offender processed, warrant issued, summons not authorised, presentment and other statuses.
+>- Caution/Official warning
+>- Intent to Summons
+>- Other
+>- Unsolved
+>- Other includes: Penalty infringement notice, caution not authorised, complaint withdrawn, notice to appear, no offence disclosed, not authorised, offender processed, warrant issued, summons not authorised, presentment and other statuses.
 
 For more information, please refer to Charge status
 
