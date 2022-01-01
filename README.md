@@ -1,6 +1,6 @@
 # VICTORIA CRIME STATISTIC
 
-[VIC_LGA_map](../Figures/VIC_LGA_map.png)
+![VIC_LGA_map](../Figures/VIC_LGA_map.png)
 
 ## Questions to be answered
 1. Compare offence by types – What is top offence types within last 10 years?
