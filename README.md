@@ -1,6 +1,6 @@
 # VICTORIA CRIME STATISTIC
 
-![VIC_LGA_map](Figures/VIC_LGA_map.png)
+![VIC_LGA_map](/../main/Figures/VIC_LGA_map.png)
 
 ## Questions to be answered
 1. Compare offence by types – What is top offence types within last 10 years?
@@ -20,7 +20,7 @@ We then merged each branch code into the main repository.
 
 ## Findings
 
-Our main repository includes our [program code](./Scripts/)
+Our main repository includes our [program code](/../main/Scripts/)
 
 Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
 
@@ -32,7 +32,7 @@ We obtained additional information for analysis:
 
 - Latitude of police stations from [government data source](https://data.gov.au/dataset/ds-aurin-aurin%3Adatasource-VIC_Govt_DELWP-VIC_Govt_DELWP_datavic_VMFEAT_POLICE_STATION/distribution/dist-aurin-aurin%3Adatasource-VIC_Govt_DELWP-VIC_Govt_DELWP_datavic_VMFEAT_POLICE_STATION-0/details?q=), converted this to [geojson file](/../main/Data/VMFEAT_POLICE_STATION.json) and [csv file](/../main/Data/VMFEAT_POLICE_STATION.csv)  using [mapshaper](https://mapshaper.org/)
 
-- LGA boundaries from [government data source](https://data.gov.au/dataset/ds-dga-bdf92691-c6fe-42b9-a0e2-a4cd716fa811/distribution/dist-dga-ce0a0ed3-6003-47fd-88ad-4b49d9337d47/details?q=), we saved this file in [here](/../main//DATA/LGA_boundaries.json)
+- LGA boundaries from [government data source](https://data.gov.au/dataset/ds-dga-bdf92691-c6fe-42b9-a0e2-a4cd716fa811/distribution/dist-dga-ce0a0ed3-6003-47fd-88ad-4b49d9337d47/details?q=), we saved this file in [here](/../main//Data/LGA_boundaries.json)
 
 
 ## Installation of dependencies - geopandas:
