@@ -1,6 +1,6 @@
 # VICTORIA CRIME STATISTIC
 
-![VIC_LGA_map](../Figures/VIC_LGA_map.png)
+![VIC_LGA_map](Figures/VIC_LGA_map.png)
 
 ## Questions to be answered
 1. Compare offence by types – What is top offence types within last 10 years?
@@ -20,11 +20,11 @@ We then merged each branch code into the main repository.
 
 ## Findings
 
-Our main repository includes our [program code](../Scripts/)
+Our main repository includes our [program code](Scripts/)
 
-Answers to the forementioned questions are documented in [report](../Write up or report.docx)
+Answers to the forementioned questions are documented in [report](Write up or report.docx)
 
-For summary of finding, please refer to [PowerPoint Presentation](..//Crime Victoria PowerPoint Presentation.pptx)
+For summary of finding, please refer to [PowerPoint Presentation](Crime Victoria PowerPoint Presentation.pptx)
 
 ## Getting additional information
 
