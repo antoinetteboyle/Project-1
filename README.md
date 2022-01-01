@@ -22,19 +22,19 @@ We then merged each branch code into the main repository.
 
 ## Findings - Crime in Victoria
 
-Our main repository includes our [program code](/../main/Scripts/)
-
 We were allocted four teams members to our project group.
 Together we searched publically available data sets and choose recent "Victorian crime statistics" for data analysis.
 Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
 We set about interrogating this data using python code in Jupyter Notebook. 
 We utilised a number of modules including python, numpy, scipys, pandas, matplotlib and API's.
 We created a repository on Github and utilised branches to write our own code. 
-We then merged each branch code into the main repository.
+We then merged each branch code into the main repository. Direction to get around our repository:
 
-Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
-
-For summary of finding, please refer to [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)
+- Original source data is in [Data folder](/../main/Data/)
+- Cleaned data resulted of our work is in [Output_data folder](/../main/Output_data/)
+- Our main repository includes our [program code](/../main/Scripts/)
+- Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
+- For summary of finding, please refer to [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)
 
 ## Getting additional information
 
