@@ -1,3 +1,5 @@
+# Project-1
+
 # VICTORIA CRIME STATISTIC
 
 ![VIC_LGA_map](/../main/Figures/VIC_LGA_map.png)
@@ -18,13 +20,21 @@ We utilised a number of modules including python, numpy, scipys, pandas, geopand
 We created a repository on Github and utilised branches to write our own code.
 We then merged each branch code into the main repository.
 
-## Findings
+## Findings - Crime in Victoria
 
-Our main repository includes our [program code](/../main/Scripts/)
+We were allocted four teams members to our project group.
+Together we searched publically available data sets and choose recent "Victorian crime statistics" for data analysis.
+Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
+We set about interrogating this data using python code in Jupyter Notebook. 
+We utilised a number of modules including python, numpy, scipys, pandas, matplotlib and API's.
+We created a repository on Github and utilised branches to write our own code. 
+We then merged each branch code into the main repository. Direction to get around our repository:
 
-Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
-
-For summary of finding, please refer to [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)
+- Original source data is in [Data folder](/../main/Data/)
+- Cleaned data resulted of our work is in [Output_data folder](/../main/Output_data/)
+- Our main repository includes our [program code](/../main/Scripts/)
+- Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
+- For summary of finding, please refer to [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)
 
 ## Getting additional information
 
@@ -37,7 +47,8 @@ We obtained additional information for analysis:
 
 ## Installation of dependencies - geopandas:
 
->Installing extention Geopandas is required to plot geographical information, which is sometimes tricky and time consuming, 
+Installing extention Geopandas is required to plot geographical information, which is sometimes tricky and time consuming, below is an installation method that works:
+
 >⦁ Go to Unofficial Windows Binaries for Python Extension Packages. (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 >⦁ Download the following binaries in a specifi folder in your laptop/PC: GDAL, Pyproj, Fiona, Shapely & Geopandas
 
