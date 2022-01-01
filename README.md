@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-
 # Project-1
-=======
+
 # VICTORIA CRIME STATISTIC
 
 ![VIC_LGA_map](/../main/Figures/VIC_LGA_map.png)
@@ -22,13 +20,9 @@ We utilised a number of modules including python, numpy, scipys, pandas, geopand
 We created a repository on Github and utilised branches to write our own code.
 We then merged each branch code into the main repository.
 
-## Findings
->>>>>>> d0028d46653fe8032ad9597a9874e6d1ed196506
+## Findings - Crime in Victoria
 
 Our main repository includes our [program code](/../main/Scripts/)
-
-<<<<<<< HEAD
-Crime in Victoria
 
 We were allocted four teams members to our project group.
 Together we searched publically available data sets and choose recent "Victorian crime statistics" for data analysis.
@@ -38,10 +32,7 @@ We utilised a number of modules including python, numpy, scipys, pandas, matplot
 We created a repository on Github and utilised branches to write our own code. 
 We then merged each branch code into the main repository.
 
-Our main repository includes our program code, a PowerPoint Presentation and a write-up or presentation pack.
-=======
 Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
->>>>>>> d0028d46653fe8032ad9597a9874e6d1ed196506
 
 For summary of finding, please refer to [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)
 
