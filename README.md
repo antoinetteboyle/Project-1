@@ -37,7 +37,8 @@ We obtained additional information for analysis:
 
 ## Installation of dependencies - geopandas:
 
->Installing extention Geopandas is required to plot geographical information, which is sometimes tricky and time consuming, 
+Installing extention Geopandas is required to plot geographical information, which is sometimes tricky and time consuming, below is an installation method that works:
+
 >⦁ Go to Unofficial Windows Binaries for Python Extension Packages. (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 >⦁ Download the following binaries in a specifi folder in your laptop/PC: GDAL, Pyproj, Fiona, Shapely & Geopandas
 
