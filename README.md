@@ -1,31 +1,30 @@
 # VICTORIA CRIME STATISTIC
 
-    
+[VIC_LGA_map](../Figures/VIC_LGA_map.png)
+
 ## Questions to be answered
 1. Compare offence by types – What is top offence types within last 10 years?
 2. What is the trend of crime types over months/years?
 3. Top crime types by regions, what is the concentration of crime per regions?
 4. What is the correlation between number of police station and number of crimes/offence status?
-    
-## Dataset
-Link: Download data | [Crime Statistics Agency Victoria](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data)
-We choose dataset:
-1. Data Tables LGA Criminal Incidents Year Ending June 2021 (XLSX, 16.78 MB)
-2. Data Tables LGA Recorded Offences Year Ending June 2021 (XLSX, 16.85 MB)
 
-## Task break-down
-- Data analysing
-- Cleaning
-- Merging
-- Graph
-- Statistic and calculation
-- Final presentation pack
+
+## Methodologies
+We were allocted four teams members to our project group.
+Together we searched publically available data sets and choose recent "Victorian crime statistics" for data analysis.
+Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
+We set about interrogating this data using python code in Jupyter Notebook. 
+We utilised a number of modules including python, numpy, scipys, pandas, geopandas, matplotlib and API's.
+We created a repository on Github and utilised branches to write our own code.
+We then merged each branch code into the main repository.
 
 ## Findings
 
+Our main repository includes our [program code](../Scripts/)
+
 Answers to the forementioned questions are documented in [report](../Write up or report.docx)
 
-For summary of finding, please refer to [presentation slice](..//Crime Victoria PowerPoint Presentation.pptx)
+For summary of finding, please refer to [PowerPoint Presentation](..//Crime Victoria PowerPoint Presentation.pptx)
 
 ## Getting additional information
 
@@ -75,4 +74,6 @@ CSA output categories include:
 >- Unsolved
 >- Other includes: Penalty infringement notice, caution not authorised, complaint withdrawn, notice to appear, no offence disclosed, not authorised, offender processed, warrant issued, summons not authorised, presentment and other statuses.
 
+
 For more [Glossary](https://www.crimestatistics.vic.gov.au/about-the-data/glossary-and-data-dictionary)***
+
