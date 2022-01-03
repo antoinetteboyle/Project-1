@@ -1,41 +1,871 @@
-Police Region,Year,Total Population
-1 North West Metro,2012,1796924
-1 North West Metro,2013,1856596
-1 North West Metro,2014,1916448
-1 North West Metro,2015,1977689
-1 North West Metro,2016,2047992
-1 North West Metro,2017,2122033
-1 North West Metro,2018,2191893
-1 North West Metro,2019,2257783
-1 North West Metro,2020,2305910
-1 North West Metro,2021,2295536
-2 Eastern,2012,1573137
-2 Eastern,2013,1591663
-2 Eastern,2014,1610207
-2 Eastern,2015,1630219
-2 Eastern,2016,1654999
-2 Eastern,2017,1678624
-2 Eastern,2018,1699229
-2 Eastern,2019,1719766
-2 Eastern,2020,1734906
-2 Eastern,2021,1722509
-3 Southern Metro,2012,1366487
-3 Southern Metro,2013,1396949
-3 Southern Metro,2014,1428859
-3 Southern Metro,2015,1462343
-3 Southern Metro,2016,1501670
-3 Southern Metro,2017,1538452
-3 Southern Metro,2018,1574023
-3 Southern Metro,2019,1607247
-3 Southern Metro,2020,1629485
-3 Southern Metro,2021,1622350
-4 Western,2012,913668
-4 Western,2013,926574
-4 Western,2014,938490
-4 Western,2015,951130
-4 Western,2016,967540
-4 Western,2017,981519
-4 Western,2018,995906
-4 Western,2019,1011124
-4 Western,2020,1025396
-4 Western,2021,1037326
+Year,Police Region,Local Government Area
+2021,1 North West Metro,Banyule
+2021,1 North West Metro,Brimbank
+2021,1 North West Metro,Darebin
+2021,1 North West Metro,Hobsons Bay
+2021,1 North West Metro,Hume
+2021,1 North West Metro,Maribyrnong
+2021,1 North West Metro,Melbourne
+2021,1 North West Metro,Melton
+2021,1 North West Metro,Moonee Valley
+2021,1 North West Metro,Moreland
+2021,1 North West Metro,Nillumbik
+2021,1 North West Metro,Whittlesea
+2021,1 North West Metro,Wyndham
+2021,1 North West Metro,Yarra
+2021,1 North West Metro,Total
+2021,2 Eastern,Alpine
+2021,2 Eastern,Bass Coast
+2021,2 Eastern,Baw Baw
+2021,2 Eastern,Benalla
+2021,2 Eastern,Boroondara
+2021,2 Eastern,East Gippsland
+2021,2 Eastern,Greater Shepparton
+2021,2 Eastern,Indigo
+2021,2 Eastern,Knox
+2021,2 Eastern,Latrobe
+2021,2 Eastern,Manningham
+2021,2 Eastern,Mansfield
+2021,2 Eastern,Maroondah
+2021,2 Eastern,Mitchell
+2021,2 Eastern,Moira
+2021,2 Eastern,Monash
+2021,2 Eastern,Murrindindi
+2021,2 Eastern,South Gippsland
+2021,2 Eastern,Strathbogie
+2021,2 Eastern,Towong
+2021,2 Eastern,Wangaratta
+2021,2 Eastern,Wellington
+2021,2 Eastern,Whitehorse
+2021,2 Eastern,Wodonga
+2021,2 Eastern,Yarra Ranges
+2021,2 Eastern,Total
+2021,3 Southern Metro,Bayside
+2021,3 Southern Metro,Cardinia
+2021,3 Southern Metro,Casey
+2021,3 Southern Metro,Frankston
+2021,3 Southern Metro,Glen Eira
+2021,3 Southern Metro,Greater Dandenong
+2021,3 Southern Metro,Kingston
+2021,3 Southern Metro,Mornington Peninsula
+2021,3 Southern Metro,Port Phillip
+2021,3 Southern Metro,Stonnington
+2021,3 Southern Metro,Total
+2021,4 Western,Ararat
+2021,4 Western,Ballarat
+2021,4 Western,Buloke
+2021,4 Western,Campaspe
+2021,4 Western,Central Goldfields
+2021,4 Western,Colac-Otway
+2021,4 Western,Corangamite
+2021,4 Western,Gannawarra
+2021,4 Western,Glenelg
+2021,4 Western,Golden Plains
+2021,4 Western,Greater Bendigo
+2021,4 Western,Greater Geelong
+2021,4 Western,Hepburn
+2021,4 Western,Hindmarsh
+2021,4 Western,Horsham
+2021,4 Western,Loddon
+2021,4 Western,Macedon Ranges
+2021,4 Western,Mildura
+2021,4 Western,Moorabool
+2021,4 Western,Mount Alexander
+2021,4 Western,Moyne
+2021,4 Western,Northern Grampians
+2021,4 Western,Pyrenees
+2021,4 Western,Queenscliffe
+2021,4 Western,Southern Grampians
+2021,4 Western,Surf Coast
+2021,4 Western,Swan Hill
+2021,4 Western,Warrnambool
+2021,4 Western,West Wimmera
+2021,4 Western,Yarriambiack
+2021,4 Western,Total
+2021,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2021,Justice Institutions and Immigration Facilities,Total
+2021,Unincorporated Vic,Unincorporated Vic
+2021,Unincorporated Vic,Total
+2020,1 North West Metro,Banyule
+2020,1 North West Metro,Brimbank
+2020,1 North West Metro,Darebin
+2020,1 North West Metro,Hobsons Bay
+2020,1 North West Metro,Hume
+2020,1 North West Metro,Maribyrnong
+2020,1 North West Metro,Melbourne
+2020,1 North West Metro,Melton
+2020,1 North West Metro,Moonee Valley
+2020,1 North West Metro,Moreland
+2020,1 North West Metro,Nillumbik
+2020,1 North West Metro,Whittlesea
+2020,1 North West Metro,Wyndham
+2020,1 North West Metro,Yarra
+2020,1 North West Metro,Total
+2020,2 Eastern,Alpine
+2020,2 Eastern,Bass Coast
+2020,2 Eastern,Baw Baw
+2020,2 Eastern,Benalla
+2020,2 Eastern,Boroondara
+2020,2 Eastern,East Gippsland
+2020,2 Eastern,Greater Shepparton
+2020,2 Eastern,Indigo
+2020,2 Eastern,Knox
+2020,2 Eastern,Latrobe
+2020,2 Eastern,Manningham
+2020,2 Eastern,Mansfield
+2020,2 Eastern,Maroondah
+2020,2 Eastern,Mitchell
+2020,2 Eastern,Moira
+2020,2 Eastern,Monash
+2020,2 Eastern,Murrindindi
+2020,2 Eastern,South Gippsland
+2020,2 Eastern,Strathbogie
+2020,2 Eastern,Towong
+2020,2 Eastern,Wangaratta
+2020,2 Eastern,Wellington
+2020,2 Eastern,Whitehorse
+2020,2 Eastern,Wodonga
+2020,2 Eastern,Yarra Ranges
+2020,2 Eastern,Total
+2020,3 Southern Metro,Bayside
+2020,3 Southern Metro,Cardinia
+2020,3 Southern Metro,Casey
+2020,3 Southern Metro,Frankston
+2020,3 Southern Metro,Glen Eira
+2020,3 Southern Metro,Greater Dandenong
+2020,3 Southern Metro,Kingston
+2020,3 Southern Metro,Mornington Peninsula
+2020,3 Southern Metro,Port Phillip
+2020,3 Southern Metro,Stonnington
+2020,3 Southern Metro,Total
+2020,4 Western,Ararat
+2020,4 Western,Ballarat
+2020,4 Western,Buloke
+2020,4 Western,Campaspe
+2020,4 Western,Central Goldfields
+2020,4 Western,Colac-Otway
+2020,4 Western,Corangamite
+2020,4 Western,Gannawarra
+2020,4 Western,Glenelg
+2020,4 Western,Golden Plains
+2020,4 Western,Greater Bendigo
+2020,4 Western,Greater Geelong
+2020,4 Western,Hepburn
+2020,4 Western,Hindmarsh
+2020,4 Western,Horsham
+2020,4 Western,Loddon
+2020,4 Western,Macedon Ranges
+2020,4 Western,Mildura
+2020,4 Western,Moorabool
+2020,4 Western,Mount Alexander
+2020,4 Western,Moyne
+2020,4 Western,Northern Grampians
+2020,4 Western,Pyrenees
+2020,4 Western,Queenscliffe
+2020,4 Western,Southern Grampians
+2020,4 Western,Surf Coast
+2020,4 Western,Swan Hill
+2020,4 Western,Warrnambool
+2020,4 Western,West Wimmera
+2020,4 Western,Yarriambiack
+2020,4 Western,Total
+2020,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2020,Justice Institutions and Immigration Facilities,Total
+2020,Unincorporated Vic,Unincorporated Vic
+2020,Unincorporated Vic,Total
+2019,1 North West Metro,Banyule
+2019,1 North West Metro,Brimbank
+2019,1 North West Metro,Darebin
+2019,1 North West Metro,Hobsons Bay
+2019,1 North West Metro,Hume
+2019,1 North West Metro,Maribyrnong
+2019,1 North West Metro,Melbourne
+2019,1 North West Metro,Melton
+2019,1 North West Metro,Moonee Valley
+2019,1 North West Metro,Moreland
+2019,1 North West Metro,Nillumbik
+2019,1 North West Metro,Whittlesea
+2019,1 North West Metro,Wyndham
+2019,1 North West Metro,Yarra
+2019,1 North West Metro,Total
+2019,2 Eastern,Alpine
+2019,2 Eastern,Bass Coast
+2019,2 Eastern,Baw Baw
+2019,2 Eastern,Benalla
+2019,2 Eastern,Boroondara
+2019,2 Eastern,East Gippsland
+2019,2 Eastern,Greater Shepparton
+2019,2 Eastern,Indigo
+2019,2 Eastern,Knox
+2019,2 Eastern,Latrobe
+2019,2 Eastern,Manningham
+2019,2 Eastern,Mansfield
+2019,2 Eastern,Maroondah
+2019,2 Eastern,Mitchell
+2019,2 Eastern,Moira
+2019,2 Eastern,Monash
+2019,2 Eastern,Murrindindi
+2019,2 Eastern,South Gippsland
+2019,2 Eastern,Strathbogie
+2019,2 Eastern,Towong
+2019,2 Eastern,Wangaratta
+2019,2 Eastern,Wellington
+2019,2 Eastern,Whitehorse
+2019,2 Eastern,Wodonga
+2019,2 Eastern,Yarra Ranges
+2019,2 Eastern,Total
+2019,3 Southern Metro,Bayside
+2019,3 Southern Metro,Cardinia
+2019,3 Southern Metro,Casey
+2019,3 Southern Metro,Frankston
+2019,3 Southern Metro,Glen Eira
+2019,3 Southern Metro,Greater Dandenong
+2019,3 Southern Metro,Kingston
+2019,3 Southern Metro,Mornington Peninsula
+2019,3 Southern Metro,Port Phillip
+2019,3 Southern Metro,Stonnington
+2019,3 Southern Metro,Total
+2019,4 Western,Ararat
+2019,4 Western,Ballarat
+2019,4 Western,Buloke
+2019,4 Western,Campaspe
+2019,4 Western,Central Goldfields
+2019,4 Western,Colac-Otway
+2019,4 Western,Corangamite
+2019,4 Western,Gannawarra
+2019,4 Western,Glenelg
+2019,4 Western,Golden Plains
+2019,4 Western,Greater Bendigo
+2019,4 Western,Greater Geelong
+2019,4 Western,Hepburn
+2019,4 Western,Hindmarsh
+2019,4 Western,Horsham
+2019,4 Western,Loddon
+2019,4 Western,Macedon Ranges
+2019,4 Western,Mildura
+2019,4 Western,Moorabool
+2019,4 Western,Mount Alexander
+2019,4 Western,Moyne
+2019,4 Western,Northern Grampians
+2019,4 Western,Pyrenees
+2019,4 Western,Queenscliffe
+2019,4 Western,Southern Grampians
+2019,4 Western,Surf Coast
+2019,4 Western,Swan Hill
+2019,4 Western,Warrnambool
+2019,4 Western,West Wimmera
+2019,4 Western,Yarriambiack
+2019,4 Western,Total
+2019,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2019,Justice Institutions and Immigration Facilities,Total
+2019,Unincorporated Vic,Unincorporated Vic
+2019,Unincorporated Vic,Total
+2018,1 North West Metro,Banyule
+2018,1 North West Metro,Brimbank
+2018,1 North West Metro,Darebin
+2018,1 North West Metro,Hobsons Bay
+2018,1 North West Metro,Hume
+2018,1 North West Metro,Maribyrnong
+2018,1 North West Metro,Melbourne
+2018,1 North West Metro,Melton
+2018,1 North West Metro,Moonee Valley
+2018,1 North West Metro,Moreland
+2018,1 North West Metro,Nillumbik
+2018,1 North West Metro,Whittlesea
+2018,1 North West Metro,Wyndham
+2018,1 North West Metro,Yarra
+2018,1 North West Metro,Total
+2018,2 Eastern,Alpine
+2018,2 Eastern,Bass Coast
+2018,2 Eastern,Baw Baw
+2018,2 Eastern,Benalla
+2018,2 Eastern,Boroondara
+2018,2 Eastern,East Gippsland
+2018,2 Eastern,Greater Shepparton
+2018,2 Eastern,Indigo
+2018,2 Eastern,Knox
+2018,2 Eastern,Latrobe
+2018,2 Eastern,Manningham
+2018,2 Eastern,Mansfield
+2018,2 Eastern,Maroondah
+2018,2 Eastern,Mitchell
+2018,2 Eastern,Moira
+2018,2 Eastern,Monash
+2018,2 Eastern,Murrindindi
+2018,2 Eastern,South Gippsland
+2018,2 Eastern,Strathbogie
+2018,2 Eastern,Towong
+2018,2 Eastern,Wangaratta
+2018,2 Eastern,Wellington
+2018,2 Eastern,Whitehorse
+2018,2 Eastern,Wodonga
+2018,2 Eastern,Yarra Ranges
+2018,2 Eastern,Total
+2018,3 Southern Metro,Bayside
+2018,3 Southern Metro,Cardinia
+2018,3 Southern Metro,Casey
+2018,3 Southern Metro,Frankston
+2018,3 Southern Metro,Glen Eira
+2018,3 Southern Metro,Greater Dandenong
+2018,3 Southern Metro,Kingston
+2018,3 Southern Metro,Mornington Peninsula
+2018,3 Southern Metro,Port Phillip
+2018,3 Southern Metro,Stonnington
+2018,3 Southern Metro,Total
+2018,4 Western,Ararat
+2018,4 Western,Ballarat
+2018,4 Western,Buloke
+2018,4 Western,Campaspe
+2018,4 Western,Central Goldfields
+2018,4 Western,Colac-Otway
+2018,4 Western,Corangamite
+2018,4 Western,Gannawarra
+2018,4 Western,Glenelg
+2018,4 Western,Golden Plains
+2018,4 Western,Greater Bendigo
+2018,4 Western,Greater Geelong
+2018,4 Western,Hepburn
+2018,4 Western,Hindmarsh
+2018,4 Western,Horsham
+2018,4 Western,Loddon
+2018,4 Western,Macedon Ranges
+2018,4 Western,Mildura
+2018,4 Western,Moorabool
+2018,4 Western,Mount Alexander
+2018,4 Western,Moyne
+2018,4 Western,Northern Grampians
+2018,4 Western,Pyrenees
+2018,4 Western,Queenscliffe
+2018,4 Western,Southern Grampians
+2018,4 Western,Surf Coast
+2018,4 Western,Swan Hill
+2018,4 Western,Warrnambool
+2018,4 Western,West Wimmera
+2018,4 Western,Yarriambiack
+2018,4 Western,Total
+2018,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2018,Justice Institutions and Immigration Facilities,Total
+2018,Unincorporated Vic,Unincorporated Vic
+2018,Unincorporated Vic,Total
+2017,1 North West Metro,Banyule
+2017,1 North West Metro,Brimbank
+2017,1 North West Metro,Darebin
+2017,1 North West Metro,Hobsons Bay
+2017,1 North West Metro,Hume
+2017,1 North West Metro,Maribyrnong
+2017,1 North West Metro,Melbourne
+2017,1 North West Metro,Melton
+2017,1 North West Metro,Moonee Valley
+2017,1 North West Metro,Moreland
+2017,1 North West Metro,Nillumbik
+2017,1 North West Metro,Whittlesea
+2017,1 North West Metro,Wyndham
+2017,1 North West Metro,Yarra
+2017,1 North West Metro,Total
+2017,2 Eastern,Alpine
+2017,2 Eastern,Bass Coast
+2017,2 Eastern,Baw Baw
+2017,2 Eastern,Benalla
+2017,2 Eastern,Boroondara
+2017,2 Eastern,East Gippsland
+2017,2 Eastern,Greater Shepparton
+2017,2 Eastern,Indigo
+2017,2 Eastern,Knox
+2017,2 Eastern,Latrobe
+2017,2 Eastern,Manningham
+2017,2 Eastern,Mansfield
+2017,2 Eastern,Maroondah
+2017,2 Eastern,Mitchell
+2017,2 Eastern,Moira
+2017,2 Eastern,Monash
+2017,2 Eastern,Murrindindi
+2017,2 Eastern,South Gippsland
+2017,2 Eastern,Strathbogie
+2017,2 Eastern,Towong
+2017,2 Eastern,Wangaratta
+2017,2 Eastern,Wellington
+2017,2 Eastern,Whitehorse
+2017,2 Eastern,Wodonga
+2017,2 Eastern,Yarra Ranges
+2017,2 Eastern,Total
+2017,3 Southern Metro,Bayside
+2017,3 Southern Metro,Cardinia
+2017,3 Southern Metro,Casey
+2017,3 Southern Metro,Frankston
+2017,3 Southern Metro,Glen Eira
+2017,3 Southern Metro,Greater Dandenong
+2017,3 Southern Metro,Kingston
+2017,3 Southern Metro,Mornington Peninsula
+2017,3 Southern Metro,Port Phillip
+2017,3 Southern Metro,Stonnington
+2017,3 Southern Metro,Total
+2017,4 Western,Ararat
+2017,4 Western,Ballarat
+2017,4 Western,Buloke
+2017,4 Western,Campaspe
+2017,4 Western,Central Goldfields
+2017,4 Western,Colac-Otway
+2017,4 Western,Corangamite
+2017,4 Western,Gannawarra
+2017,4 Western,Glenelg
+2017,4 Western,Golden Plains
+2017,4 Western,Greater Bendigo
+2017,4 Western,Greater Geelong
+2017,4 Western,Hepburn
+2017,4 Western,Hindmarsh
+2017,4 Western,Horsham
+2017,4 Western,Loddon
+2017,4 Western,Macedon Ranges
+2017,4 Western,Mildura
+2017,4 Western,Moorabool
+2017,4 Western,Mount Alexander
+2017,4 Western,Moyne
+2017,4 Western,Northern Grampians
+2017,4 Western,Pyrenees
+2017,4 Western,Queenscliffe
+2017,4 Western,Southern Grampians
+2017,4 Western,Surf Coast
+2017,4 Western,Swan Hill
+2017,4 Western,Warrnambool
+2017,4 Western,West Wimmera
+2017,4 Western,Yarriambiack
+2017,4 Western,Total
+2017,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2017,Justice Institutions and Immigration Facilities,Total
+2017,Unincorporated Vic,Unincorporated Vic
+2017,Unincorporated Vic,Total
+2016,1 North West Metro,Banyule
+2016,1 North West Metro,Brimbank
+2016,1 North West Metro,Darebin
+2016,1 North West Metro,Hobsons Bay
+2016,1 North West Metro,Hume
+2016,1 North West Metro,Maribyrnong
+2016,1 North West Metro,Melbourne
+2016,1 North West Metro,Melton
+2016,1 North West Metro,Moonee Valley
+2016,1 North West Metro,Moreland
+2016,1 North West Metro,Nillumbik
+2016,1 North West Metro,Whittlesea
+2016,1 North West Metro,Wyndham
+2016,1 North West Metro,Yarra
+2016,1 North West Metro,Total
+2016,2 Eastern,Alpine
+2016,2 Eastern,Bass Coast
+2016,2 Eastern,Baw Baw
+2016,2 Eastern,Benalla
+2016,2 Eastern,Boroondara
+2016,2 Eastern,East Gippsland
+2016,2 Eastern,Greater Shepparton
+2016,2 Eastern,Indigo
+2016,2 Eastern,Knox
+2016,2 Eastern,Latrobe
+2016,2 Eastern,Manningham
+2016,2 Eastern,Mansfield
+2016,2 Eastern,Maroondah
+2016,2 Eastern,Mitchell
+2016,2 Eastern,Moira
+2016,2 Eastern,Monash
+2016,2 Eastern,Murrindindi
+2016,2 Eastern,South Gippsland
+2016,2 Eastern,Strathbogie
+2016,2 Eastern,Towong
+2016,2 Eastern,Wangaratta
+2016,2 Eastern,Wellington
+2016,2 Eastern,Whitehorse
+2016,2 Eastern,Wodonga
+2016,2 Eastern,Yarra Ranges
+2016,2 Eastern,Total
+2016,3 Southern Metro,Bayside
+2016,3 Southern Metro,Cardinia
+2016,3 Southern Metro,Casey
+2016,3 Southern Metro,Frankston
+2016,3 Southern Metro,Glen Eira
+2016,3 Southern Metro,Greater Dandenong
+2016,3 Southern Metro,Kingston
+2016,3 Southern Metro,Mornington Peninsula
+2016,3 Southern Metro,Port Phillip
+2016,3 Southern Metro,Stonnington
+2016,3 Southern Metro,Total
+2016,4 Western,Ararat
+2016,4 Western,Ballarat
+2016,4 Western,Buloke
+2016,4 Western,Campaspe
+2016,4 Western,Central Goldfields
+2016,4 Western,Colac-Otway
+2016,4 Western,Corangamite
+2016,4 Western,Gannawarra
+2016,4 Western,Glenelg
+2016,4 Western,Golden Plains
+2016,4 Western,Greater Bendigo
+2016,4 Western,Greater Geelong
+2016,4 Western,Hepburn
+2016,4 Western,Hindmarsh
+2016,4 Western,Horsham
+2016,4 Western,Loddon
+2016,4 Western,Macedon Ranges
+2016,4 Western,Mildura
+2016,4 Western,Moorabool
+2016,4 Western,Mount Alexander
+2016,4 Western,Moyne
+2016,4 Western,Northern Grampians
+2016,4 Western,Pyrenees
+2016,4 Western,Queenscliffe
+2016,4 Western,Southern Grampians
+2016,4 Western,Surf Coast
+2016,4 Western,Swan Hill
+2016,4 Western,Warrnambool
+2016,4 Western,West Wimmera
+2016,4 Western,Yarriambiack
+2016,4 Western,Total
+2016,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2016,Justice Institutions and Immigration Facilities,Total
+2016,Unincorporated Vic,Unincorporated Vic
+2016,Unincorporated Vic,Total
+2015,1 North West Metro,Banyule
+2015,1 North West Metro,Brimbank
+2015,1 North West Metro,Darebin
+2015,1 North West Metro,Hobsons Bay
+2015,1 North West Metro,Hume
+2015,1 North West Metro,Maribyrnong
+2015,1 North West Metro,Melbourne
+2015,1 North West Metro,Melton
+2015,1 North West Metro,Moonee Valley
+2015,1 North West Metro,Moreland
+2015,1 North West Metro,Nillumbik
+2015,1 North West Metro,Whittlesea
+2015,1 North West Metro,Wyndham
+2015,1 North West Metro,Yarra
+2015,1 North West Metro,Total
+2015,2 Eastern,Alpine
+2015,2 Eastern,Bass Coast
+2015,2 Eastern,Baw Baw
+2015,2 Eastern,Benalla
+2015,2 Eastern,Boroondara
+2015,2 Eastern,East Gippsland
+2015,2 Eastern,Greater Shepparton
+2015,2 Eastern,Indigo
+2015,2 Eastern,Knox
+2015,2 Eastern,Latrobe
+2015,2 Eastern,Manningham
+2015,2 Eastern,Mansfield
+2015,2 Eastern,Maroondah
+2015,2 Eastern,Mitchell
+2015,2 Eastern,Moira
+2015,2 Eastern,Monash
+2015,2 Eastern,Murrindindi
+2015,2 Eastern,South Gippsland
+2015,2 Eastern,Strathbogie
+2015,2 Eastern,Towong
+2015,2 Eastern,Wangaratta
+2015,2 Eastern,Wellington
+2015,2 Eastern,Whitehorse
+2015,2 Eastern,Wodonga
+2015,2 Eastern,Yarra Ranges
+2015,2 Eastern,Total
+2015,3 Southern Metro,Bayside
+2015,3 Southern Metro,Cardinia
+2015,3 Southern Metro,Casey
+2015,3 Southern Metro,Frankston
+2015,3 Southern Metro,Glen Eira
+2015,3 Southern Metro,Greater Dandenong
+2015,3 Southern Metro,Kingston
+2015,3 Southern Metro,Mornington Peninsula
+2015,3 Southern Metro,Port Phillip
+2015,3 Southern Metro,Stonnington
+2015,3 Southern Metro,Total
+2015,4 Western,Ararat
+2015,4 Western,Ballarat
+2015,4 Western,Buloke
+2015,4 Western,Campaspe
+2015,4 Western,Central Goldfields
+2015,4 Western,Colac-Otway
+2015,4 Western,Corangamite
+2015,4 Western,Gannawarra
+2015,4 Western,Glenelg
+2015,4 Western,Golden Plains
+2015,4 Western,Greater Bendigo
+2015,4 Western,Greater Geelong
+2015,4 Western,Hepburn
+2015,4 Western,Hindmarsh
+2015,4 Western,Horsham
+2015,4 Western,Loddon
+2015,4 Western,Macedon Ranges
+2015,4 Western,Mildura
+2015,4 Western,Moorabool
+2015,4 Western,Mount Alexander
+2015,4 Western,Moyne
+2015,4 Western,Northern Grampians
+2015,4 Western,Pyrenees
+2015,4 Western,Queenscliffe
+2015,4 Western,Southern Grampians
+2015,4 Western,Surf Coast
+2015,4 Western,Swan Hill
+2015,4 Western,Warrnambool
+2015,4 Western,West Wimmera
+2015,4 Western,Yarriambiack
+2015,4 Western,Total
+2015,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2015,Justice Institutions and Immigration Facilities,Total
+2015,Unincorporated Vic,Unincorporated Vic
+2015,Unincorporated Vic,Total
+2014,1 North West Metro,Banyule
+2014,1 North West Metro,Brimbank
+2014,1 North West Metro,Darebin
+2014,1 North West Metro,Hobsons Bay
+2014,1 North West Metro,Hume
+2014,1 North West Metro,Maribyrnong
+2014,1 North West Metro,Melbourne
+2014,1 North West Metro,Melton
+2014,1 North West Metro,Moonee Valley
+2014,1 North West Metro,Moreland
+2014,1 North West Metro,Nillumbik
+2014,1 North West Metro,Whittlesea
+2014,1 North West Metro,Wyndham
+2014,1 North West Metro,Yarra
+2014,1 North West Metro,Total
+2014,2 Eastern,Alpine
+2014,2 Eastern,Bass Coast
+2014,2 Eastern,Baw Baw
+2014,2 Eastern,Benalla
+2014,2 Eastern,Boroondara
+2014,2 Eastern,East Gippsland
+2014,2 Eastern,Greater Shepparton
+2014,2 Eastern,Indigo
+2014,2 Eastern,Knox
+2014,2 Eastern,Latrobe
+2014,2 Eastern,Manningham
+2014,2 Eastern,Mansfield
+2014,2 Eastern,Maroondah
+2014,2 Eastern,Mitchell
+2014,2 Eastern,Moira
+2014,2 Eastern,Monash
+2014,2 Eastern,Murrindindi
+2014,2 Eastern,South Gippsland
+2014,2 Eastern,Strathbogie
+2014,2 Eastern,Towong
+2014,2 Eastern,Wangaratta
+2014,2 Eastern,Wellington
+2014,2 Eastern,Whitehorse
+2014,2 Eastern,Wodonga
+2014,2 Eastern,Yarra Ranges
+2014,2 Eastern,Total
+2014,3 Southern Metro,Bayside
+2014,3 Southern Metro,Cardinia
+2014,3 Southern Metro,Casey
+2014,3 Southern Metro,Frankston
+2014,3 Southern Metro,Glen Eira
+2014,3 Southern Metro,Greater Dandenong
+2014,3 Southern Metro,Kingston
+2014,3 Southern Metro,Mornington Peninsula
+2014,3 Southern Metro,Port Phillip
+2014,3 Southern Metro,Stonnington
+2014,3 Southern Metro,Total
+2014,4 Western,Ararat
+2014,4 Western,Ballarat
+2014,4 Western,Buloke
+2014,4 Western,Campaspe
+2014,4 Western,Central Goldfields
+2014,4 Western,Colac-Otway
+2014,4 Western,Corangamite
+2014,4 Western,Gannawarra
+2014,4 Western,Glenelg
+2014,4 Western,Golden Plains
+2014,4 Western,Greater Bendigo
+2014,4 Western,Greater Geelong
+2014,4 Western,Hepburn
+2014,4 Western,Hindmarsh
+2014,4 Western,Horsham
+2014,4 Western,Loddon
+2014,4 Western,Macedon Ranges
+2014,4 Western,Mildura
+2014,4 Western,Moorabool
+2014,4 Western,Mount Alexander
+2014,4 Western,Moyne
+2014,4 Western,Northern Grampians
+2014,4 Western,Pyrenees
+2014,4 Western,Queenscliffe
+2014,4 Western,Southern Grampians
+2014,4 Western,Surf Coast
+2014,4 Western,Swan Hill
+2014,4 Western,Warrnambool
+2014,4 Western,West Wimmera
+2014,4 Western,Yarriambiack
+2014,4 Western,Total
+2014,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2014,Justice Institutions and Immigration Facilities,Total
+2014,Unincorporated Vic,Unincorporated Vic
+2014,Unincorporated Vic,Total
+2013,1 North West Metro,Banyule
+2013,1 North West Metro,Brimbank
+2013,1 North West Metro,Darebin
+2013,1 North West Metro,Hobsons Bay
+2013,1 North West Metro,Hume
+2013,1 North West Metro,Maribyrnong
+2013,1 North West Metro,Melbourne
+2013,1 North West Metro,Melton
+2013,1 North West Metro,Moonee Valley
+2013,1 North West Metro,Moreland
+2013,1 North West Metro,Nillumbik
+2013,1 North West Metro,Whittlesea
+2013,1 North West Metro,Wyndham
+2013,1 North West Metro,Yarra
+2013,1 North West Metro,Total
+2013,2 Eastern,Alpine
+2013,2 Eastern,Bass Coast
+2013,2 Eastern,Baw Baw
+2013,2 Eastern,Benalla
+2013,2 Eastern,Boroondara
+2013,2 Eastern,East Gippsland
+2013,2 Eastern,Greater Shepparton
+2013,2 Eastern,Indigo
+2013,2 Eastern,Knox
+2013,2 Eastern,Latrobe
+2013,2 Eastern,Manningham
+2013,2 Eastern,Mansfield
+2013,2 Eastern,Maroondah
+2013,2 Eastern,Mitchell
+2013,2 Eastern,Moira
+2013,2 Eastern,Monash
+2013,2 Eastern,Murrindindi
+2013,2 Eastern,South Gippsland
+2013,2 Eastern,Strathbogie
+2013,2 Eastern,Towong
+2013,2 Eastern,Wangaratta
+2013,2 Eastern,Wellington
+2013,2 Eastern,Whitehorse
+2013,2 Eastern,Wodonga
+2013,2 Eastern,Yarra Ranges
+2013,2 Eastern,Total
+2013,3 Southern Metro,Bayside
+2013,3 Southern Metro,Cardinia
+2013,3 Southern Metro,Casey
+2013,3 Southern Metro,Frankston
+2013,3 Southern Metro,Glen Eira
+2013,3 Southern Metro,Greater Dandenong
+2013,3 Southern Metro,Kingston
+2013,3 Southern Metro,Mornington Peninsula
+2013,3 Southern Metro,Port Phillip
+2013,3 Southern Metro,Stonnington
+2013,3 Southern Metro,Total
+2013,4 Western,Ararat
+2013,4 Western,Ballarat
+2013,4 Western,Buloke
+2013,4 Western,Campaspe
+2013,4 Western,Central Goldfields
+2013,4 Western,Colac-Otway
+2013,4 Western,Corangamite
+2013,4 Western,Gannawarra
+2013,4 Western,Glenelg
+2013,4 Western,Golden Plains
+2013,4 Western,Greater Bendigo
+2013,4 Western,Greater Geelong
+2013,4 Western,Hepburn
+2013,4 Western,Hindmarsh
+2013,4 Western,Horsham
+2013,4 Western,Loddon
+2013,4 Western,Macedon Ranges
+2013,4 Western,Mildura
+2013,4 Western,Moorabool
+2013,4 Western,Mount Alexander
+2013,4 Western,Moyne
+2013,4 Western,Northern Grampians
+2013,4 Western,Pyrenees
+2013,4 Western,Queenscliffe
+2013,4 Western,Southern Grampians
+2013,4 Western,Surf Coast
+2013,4 Western,Swan Hill
+2013,4 Western,Warrnambool
+2013,4 Western,West Wimmera
+2013,4 Western,Yarriambiack
+2013,4 Western,Total
+2013,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2013,Justice Institutions and Immigration Facilities,Total
+2013,Unincorporated Vic,Unincorporated Vic
+2013,Unincorporated Vic,Total
+2012,1 North West Metro,Banyule
+2012,1 North West Metro,Brimbank
+2012,1 North West Metro,Darebin
+2012,1 North West Metro,Hobsons Bay
+2012,1 North West Metro,Hume
+2012,1 North West Metro,Maribyrnong
+2012,1 North West Metro,Melbourne
+2012,1 North West Metro,Melton
+2012,1 North West Metro,Moonee Valley
+2012,1 North West Metro,Moreland
+2012,1 North West Metro,Nillumbik
+2012,1 North West Metro,Whittlesea
+2012,1 North West Metro,Wyndham
+2012,1 North West Metro,Yarra
+2012,1 North West Metro,Total
+2012,2 Eastern,Alpine
+2012,2 Eastern,Bass Coast
+2012,2 Eastern,Baw Baw
+2012,2 Eastern,Benalla
+2012,2 Eastern,Boroondara
+2012,2 Eastern,East Gippsland
+2012,2 Eastern,Greater Shepparton
+2012,2 Eastern,Indigo
+2012,2 Eastern,Knox
+2012,2 Eastern,Latrobe
+2012,2 Eastern,Manningham
+2012,2 Eastern,Mansfield
+2012,2 Eastern,Maroondah
+2012,2 Eastern,Mitchell
+2012,2 Eastern,Moira
+2012,2 Eastern,Monash
+2012,2 Eastern,Murrindindi
+2012,2 Eastern,South Gippsland
+2012,2 Eastern,Strathbogie
+2012,2 Eastern,Towong
+2012,2 Eastern,Wangaratta
+2012,2 Eastern,Wellington
+2012,2 Eastern,Whitehorse
+2012,2 Eastern,Wodonga
+2012,2 Eastern,Yarra Ranges
+2012,2 Eastern,Total
+2012,3 Southern Metro,Bayside
+2012,3 Southern Metro,Cardinia
+2012,3 Southern Metro,Casey
+2012,3 Southern Metro,Frankston
+2012,3 Southern Metro,Glen Eira
+2012,3 Southern Metro,Greater Dandenong
+2012,3 Southern Metro,Kingston
+2012,3 Southern Metro,Mornington Peninsula
+2012,3 Southern Metro,Port Phillip
+2012,3 Southern Metro,Stonnington
+2012,3 Southern Metro,Total
+2012,4 Western,Ararat
+2012,4 Western,Ballarat
+2012,4 Western,Buloke
+2012,4 Western,Campaspe
+2012,4 Western,Central Goldfields
+2012,4 Western,Colac-Otway
+2012,4 Western,Corangamite
+2012,4 Western,Gannawarra
+2012,4 Western,Glenelg
+2012,4 Western,Golden Plains
+2012,4 Western,Greater Bendigo
+2012,4 Western,Greater Geelong
+2012,4 Western,Hepburn
+2012,4 Western,Hindmarsh
+2012,4 Western,Horsham
+2012,4 Western,Loddon
+2012,4 Western,Macedon Ranges
+2012,4 Western,Mildura
+2012,4 Western,Moorabool
+2012,4 Western,Mount Alexander
+2012,4 Western,Moyne
+2012,4 Western,Northern Grampians
+2012,4 Western,Pyrenees
+2012,4 Western,Queenscliffe
+2012,4 Western,Southern Grampians
+2012,4 Western,Surf Coast
+2012,4 Western,Swan Hill
+2012,4 Western,Warrnambool
+2012,4 Western,West Wimmera
+2012,4 Western,Yarriambiack
+2012,4 Western,Total
+2012,Justice Institutions and Immigration Facilities,Justice Institutions and Immigration Facilities
+2012,Justice Institutions and Immigration Facilities,Total
+2012,Unincorporated Vic,Unincorporated Vic
+2012,Unincorporated Vic,Total
