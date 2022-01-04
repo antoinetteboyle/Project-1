@@ -19,7 +19,7 @@ We then merged each branch code into the main repository.
 
 ## Findings
 =======
-Several techniques had been adopted for data mining, scrapping, cleansing and visualising. Statistical calculations had also been used to projected the trend and normalities of data (refer to the Jupyter notebooks for more details). <br />
+Several techniques had been adopted for data mining, scrapping, cleansing and visualising. Statistical calculations had also been used to project the trend and normalities of data (refer to the Jupyter notebooks for more details). <br />
 Applications in used are Jupyter notebook, Jupyter lab, Anaconda, Windows terminal, Gitbash. Microsoft package was also used for importing/exporting csv data file, powerpoint presentation and report writing.<br />
 Codes are stored on the open/shared platform: Github.<br />
 Program language: python with various libraries such as numpy, scipys, pandas, geopandas, matplotlib, seaborn, folium, json, seasonal_decompose, os, API's, etc...
