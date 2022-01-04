@@ -1,17 +1,14 @@
 
 # Project-1
-# VICTORIA CRIME STATISTIC
+# VICTORIA CRIME DATA ANALYTICS
 
 ![VIC_LGA_map](/../main/Figures/VIC_LGA_map.png)
 
-## Questions to be answered
-1. Compare offence by types – What is top offence types within last 10 years?
-2. What is the trend of crime types over months/years?
-3. Top crime types by regions, what is the concentration of crime per regions?
-4. What is the correlation between number of police station and number of crimes/offence status?
-
+## The project team
+The team consisted of four members with various backgrounds and experienced that allocated by the class instructor. Regular catch ups and communications were done via Slack and zoom.
 
 ## Methodologies
+<<<<<<< HEAD
 We were allocted four teams members to our project group.
 Together we searched publicly available data sets and choose recent "Victorian crime statistics" for data analysis.
 Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
@@ -21,21 +18,42 @@ We created a repository on Github and utilised branches to write our own code.
 We then merged each branch code into the main repository.
 
 ## Findings
+=======
+Several techniques had been adopted for data mining, scrapping, cleansing and visualising. Statistical calculations had also been used to projected the trend and normalities of data (refer to the Jupyter notebooks for more details). <br />
+Applications in used are Jupyter notebook, Jupyter lab, Anaconda, Windows terminal, Gitbash. Microsoft package was also used for importing/exporting csv data file, powerpoint presentation and report writing.<br />
+Codes are stored on the open/shared platform: Github.<br />
+Program language: python with various libraries such as numpy, scipys, pandas, geopandas, matplotlib, seaborn, folium, json, seasonal_decompose, os, API's, etc...
 
-Our main repository includes our [program code](/../main/Scripts/)
+## Codes and Changes Management
+Git hub is the central repository for storing source codes and files. It is also been used for managing change submissions and resolving change conflicts. <br />
+Each team member produced a set of jupyter notebooks and files for their data analysing. Sub branches were created and merged to the github project's main branch after pulling the lastest updates from the main branch. When a conflict of change arised, communication via Slack had been established to revolved the issued immediately to minise the impact on others.
 
-Our main repository includes our program code, a PowerPoint Presentation and a write-up or presentation pack.
-Answers to the forementioned questions are documented in [report](/../main/Write_up_report.docx)
+## Project's Objective
+Based on the Victoria Crime data, the project team has to address the main four themes with their findings and observations
+1. Compare crime offence by types – What is top offence types within last 10 years?
+2. What is the trend of crime types over the years?
+3. Top crime types by regions, what is the concentration of crime per regions?
+4. What is the correlation between number of police station and number of crimes/offence status?
+>>>>>>> 7e0c279ff50e4520b93531d012acb4c4183aa3e0
 
-For summary of finding, please refer to [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)
+## Project Submission:
 
-## Getting additional information
+All the codes files are stored in the folder called [Scripts](/../main/Scripts/). Each Jyputer notebook in this Scripts folder is self-contained and can be executed individually.<br />
+**NOTE:** Some depdendencies will need to be installed and imported on the local machine such as geopdandas (and its dependencies), seaborn, folium, statsmodels <br />
 
-We obtained additional information for analysis:
+All the input data files are stored in the folder [Data](/../main/Data/).<br />
+The Victoria Crime findings & observations are documented in this [report](/../main/Write_up_report.docx)<br />
+The presentation pack to showcase the findings and data visualisation can be accessed via this [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)<br />
+
+## Data sources:
+
+- Input crimes data were downloaded from the goverment website [Crime Statistics](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data)
 
 - Latitude of police stations from [government data source](https://data.gov.au/dataset/ds-aurin-aurin%3Adatasource-VIC_Govt_DELWP-VIC_Govt_DELWP_datavic_VMFEAT_POLICE_STATION/distribution/dist-aurin-aurin%3Adatasource-VIC_Govt_DELWP-VIC_Govt_DELWP_datavic_VMFEAT_POLICE_STATION-0/details?q=), converted this to [geojson file](/../main/Data/VMFEAT_POLICE_STATION.json) and [csv file](/../main/Data/VMFEAT_POLICE_STATION.csv)  using [mapshaper](https://mapshaper.org/)
 
-- LGA boundaries from [government data source](https://data.gov.au/dataset/ds-dga-bdf92691-c6fe-42b9-a0e2-a4cd716fa811/distribution/dist-dga-ce0a0ed3-6003-47fd-88ad-4b49d9337d47/details?q=), we saved this file in [here](/../main//Data/LGA_boundaries.json)
+- LGA boundaries from [government data source](https://data.gov.au/dataset/ds-dga-bdf92691-c6fe-42b9-a0e2-a4cd716fa811/distribution/dist-dga-ce0a0ed3-6003-47fd-88ad-4b49d9337d47/details?q=), and https://data.gov.au/dataset/ds-dga-bdf92691-c6fe-42b9-a0e2-a4cd716fa811/details
+
+- LGA boundaries Json file had been saved this file in [here](/../main//Data/LGA_boundaries.json)
 
 
 ## Installation of dependencies - geopandas:
