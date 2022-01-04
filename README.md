@@ -1,6 +1,6 @@
 
 # Project-1
-# VICTORIA CRIME STATISTIC
+# VICTORIA CRIME DATA ANALYTICS
 
 ![VIC_LGA_map](/../main/Figures/VIC_LGA_map.png)
 
