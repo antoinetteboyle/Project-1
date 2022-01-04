@@ -32,7 +32,6 @@ Based on the Victoria Crime data, the project team has to address the main four 
 2. What is the trend of crime types over the years?
 3. Top crime types by regions, what is the concentration of crime per regions?
 4. What is the correlation between number of police station and number of crimes/offence status?
->>>>>>> 7e0c279ff50e4520b93531d012acb4c4183aa3e0
 
 ## Project Submission:
 
