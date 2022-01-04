@@ -8,7 +8,6 @@
 The team consisted of four members with various backgrounds and experienced that allocated by the class instructor. Regular catch ups and communications were done via Slack and zoom.
 
 ## Methodologies
-<<<<<<< HEAD
 We were allocted four teams members to our project group.
 Together we searched publicly available data sets and choose recent "Victorian crime statistics" for data analysis.
 Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
@@ -18,8 +17,7 @@ We created a repository on Github and utilised branches to write our own code.
 We then merged each branch code into the main repository.
 
 ## Findings
-=======
-Several techniques had been adopted for data mining, scrapping, cleansing and visualising. Statistical calculations had also been used to projected the trend and normalities of data (refer to the Jupyter notebooks for more details). <br />
+Several techniques had been adopted for data mining, scrapping, cleansing and visualising. Statistical calculations had also been used to project the trend and normalities of data (refer to the Jupyter notebooks for more details). <br />
 Applications in used are Jupyter notebook, Jupyter lab, Anaconda, Windows terminal, Gitbash. Microsoft package was also used for importing/exporting csv data file, powerpoint presentation and report writing.<br />
 Codes are stored on the open/shared platform: Github.<br />
 Program language: python with various libraries such as numpy, scipys, pandas, geopandas, matplotlib, seaborn, folium, json, seasonal_decompose, os, API's, etc...
@@ -39,7 +37,7 @@ Based on the Victoria Crime data, the project team has to address the main four 
 ## Project Submission:
 
 All the codes files are stored in the folder called [Scripts](/../main/Scripts/). Each Jyputer notebook in this Scripts folder is self-contained and can be executed individually.<br />
-**NOTE:** Some depdendencies will need to be installed and imported on the local machine such as geopdandas (and its dependencies), seaborn, folium, statsmodels <br />
+**NOTE:** Some depdendencies will need to be installed and imported on the local machine such as geopdandas (and its dependencies), seaborn, folium, statsmodels, plotly, shapefile <br />
 
 All the input data files are stored in the folder [Data](/../main/Data/).<br />
 The Victoria Crime findings & observations are documented in this [report](/../main/Write_up_report.docx)<br />
