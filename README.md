@@ -13,7 +13,7 @@
 
 ## Methodologies
 We were allocted four teams members to our project group.
-Together we searched publically available data sets and choose recent "Victorian crime statistics" for data analysis.
+Together we searched publicly available data sets and choose recent "Victorian crime statistics" for data analysis.
 Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
 We set about interrogating this data using python code in Jupyter Notebook. 
 We utilised a number of modules including python, numpy, scipys, pandas, geopandas, matplotlib and API's.
