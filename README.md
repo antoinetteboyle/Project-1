@@ -39,7 +39,7 @@ All the codes files are stored in the folder called [Scripts](/../main/Scripts/)
 **NOTE:** Some depdendencies will need to be installed and imported on the local machine such as geopdandas (and its dependencies), seaborn, folium, statsmodels, plotly, shapefile <br />
 
 All the input data files are stored in the folder [Data](/../main/Data/).<br />
-The Victoria Crime findings & observations are documented in this [report](/../main/Write_up_report.docx)<br />
+The Victoria Crime findings & observations are documented in this [report](/../main/Write_up_report_final.docx)<br />
 The presentation pack to showcase the findings and data visualisation can be accessed via this [PowerPoint Presentation](/../main/Crime_Victoria_PowerPoint_Presentation.pptx)<br />
 
 ## Data sources:
