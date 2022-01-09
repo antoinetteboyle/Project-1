@@ -8,9 +8,9 @@
 The team consisted of four members with various backgrounds and experienced that allocated by the class instructor. Regular catch ups and communications were done via Slack and zoom.
 
 ## Methodologies
-We were allocted four teams members to our project group.
+We were allocated four teams members to our project group.
 Together we searched publicly available data sets and choose recent "Victorian crime statistics" for data analysis.
-Finalysing about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
+Finalising about 4 questions, we performed an initial analysis on this data using advanced excel techniques. 
 We set about interrogating this data using python code in Jupyter Notebook. 
 We utilised a number of modules including python, numpy, scipys, pandas, geopandas, matplotlib and API's.
 We created a repository on Github and utilised branches to write our own code.
@@ -24,7 +24,7 @@ Program language: python with various libraries such as numpy, scipys, pandas, g
 
 ## Codes and Changes Management
 Git hub is the central repository for storing source codes and files. It is also been used for managing change submissions and resolving change conflicts. <br />
-Each team member produced a set of jupyter notebooks and files for their data analysing. Sub branches were created and merged to the github project's main branch after pulling the lastest updates from the main branch. When a conflict of change arised, communication via Slack had been established to revolved the issued immediately to minise the impact on others.
+Each team member produced a set of jupyter notebooks and files for their data analysing. Sub branches were created and merged to the github project's main branch after pulling the lastest updates from the main branch. When a conflict of change arised, communication via Slack had been established to resolve the issued immediately to minimize the impact on others.
 
 ## Project's Objective
 Based on the Victoria Crime data, the project team has to address the main four themes with their findings and observations
